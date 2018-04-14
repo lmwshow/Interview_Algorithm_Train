@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interview_algorithm_Train.iml" filepath="$PROJECT_DIR$/Interview_algorithm_Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newcoder/newcoder.iml" filepath="$PROJECT_DIR$/newcoder/newcoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/笔试/笔试.iml" filepath="$PROJECT_DIR$/笔试/笔试.iml" />
+    </modules>
+  </component>
+</project>
