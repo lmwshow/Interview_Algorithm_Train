@@ -2,491 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/MergeSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Convert_BST_to_Greater_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Count_of_Smaller_Numbers_After_Self.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Counting_Bits.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Decode_String.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Diameter_of_Binary_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Find_All_Numbers_Disappeared_in_an_Array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Friend_Circles.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Hamming_Distance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Kth_Largest_Element_in_an_Array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Majority_Element.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Merge_Two_Binary_Trees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Move_Zeroes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Palindromic_Substrings.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Product_of_Array_Except_Self.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Remove_Invalid_Parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Subtree_of_Another_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Sum_3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Task_Scheduler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Find_the_Duplicate_Number.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/House_Robber_III.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Longest_Increasing_Subsequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Partition_Equal_Subset_Sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Path_Sum_III.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Queue_Reconstruction_by_Height.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Search_a_2D_Matrix_II.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Serialize_and_Deserialize_Binary_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Shortest_Unsorted_Continuous_Subarray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Subarray_Sum_Equals_K.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/The_Skyline_Problem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/dp/Edit_Distance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/dp/again/Burst_Balloons.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/dp/again/House_Robber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/dp/again/Maximal_Square.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/leetcode1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/pow.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/sqrt_t.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/util/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/优先队列/Sliding_Window_Maximum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/优先队列/Top_K_Frequent_Elements.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/图/Course_Schedule.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/字符串/滑动窗口/Minimum_Window_Substring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/搜索/Number_of_Islands.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/树/遍历/Binary_Tree_Maximum_Path_Sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/树/遍历/Flatten_Binary_Tree_to_Linked_List.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/树/遍历/Invert_Binary_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/树/遍历/Lowes_Common_Ancestor_of_a_Binary_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/链表/Intersection_of_Two_Linked_Lists.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/链表/LRUCache.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/链表/MinStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/链表/Palindrome_Linked_List.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/链表/Reverse_Linked_List.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question10_Regular_Expression_Matching.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question11_Container_With_Most_Water.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question11_Integer_to_Roman.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question128_最长连续序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question12_Roman_to_Integer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question136_只出现一次的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question139_单词拆分.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question13_Longest_Common_Prefix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question146_LRUCache.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question152_乘积最大子序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question15_3Sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question169_求数组中超过一半个数的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question17_Letter_Combinations_of_a_Phone_Number.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question19_Remove_Nth_Node_From_End_of_List.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question1_two_sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question20_Valid_Parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question215_数组中的第K个最大元素.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question218_天际线问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question21_Merge_Two_Sorted_Lists.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question221_最大正方形.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question22_Generate_Parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question238_除自身以外数组的乘积.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question23_Merge_k_Sorted_Lists.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question240_搜索二维矩阵2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question283_移动零.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question287_寻找重复数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question300_最长上升子序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question31_Next_Permutation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question32_Longest_Valid_Parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question33_Search_in_Rotated_Sorted_Array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question34Search_for_a_Range.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question39_Combination_Sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question3_Longest_Substring_Without_Repeating_Characters.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question42_Trapping_Rain_Water.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question46_Permutations.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question48_Rotate_Image.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question49_Group_Anagrams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question53_Maximum_Subarray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question55_Jump_Game.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question56_Merge_Intervals.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question5_Longest_Palindromic_Substring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question62_Unique_Paths.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question64_Minimum_Path_Sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question6_ZigZag_Conversion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question70_Climbing_Stairs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question72_Edit_Distance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question75_Sort_Colors.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question76_Minimum_Window_Substring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question78_Subsets.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question79_Word_Search.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question84_Largest_Rectangle_in_Histogram.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question85_Maximal_Rectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question8_String_to_Integer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question9_Palindrome_Number.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/LRUCache.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question101_对称二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question105_从前序与中序遍历序列构造二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question114_二叉树转换链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question124_二叉树中的最大路径和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question128_最长连续序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question139_单词拆分.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question148_链表排序.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question15_三数之和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question218_天际线问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question221_最大正方形.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question22_生成括号.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question236_二叉树的最近公共祖先.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question300_最长上升子序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question34_搜索范围.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question42_接雨水.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question4_两个排序数组的中位数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question53_最大子序和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question5_最长回文子串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question72_编辑距离.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question78_子集.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question7_颠倒整数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question84_柱状图中最大的矩形.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question85_最大矩形.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/dp/Question121_买卖股票的最佳时机.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/dp/Question198_打家劫舍.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/dp/Question279_完美平方数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/util/Interval.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/util/ListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/util/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/优先队列/Question218_天际线问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/图论/Question200_连通图的个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/图论/Question207_是否存在合法拓扑关系.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/排序及应用/Question215_数组中的第K个最大元素.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question101_对称二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question102_二叉树的层次遍历.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question104_二叉树的最大深度.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question105_从前序与中序遍历序列构造二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question114_二叉树转换链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question124_二叉树中的最大路径和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question208_实现前缀树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question226_翻转二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question297_二叉树的序列化与反序列化.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question94_中序遍历二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question96_不同的二叉查找树个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question98_验证有效二叉搜索树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/滑动窗口类似求最值系列/Question155_最小栈.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/滑动窗口类似求最值系列/Question239_滑动窗口最大值.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question141_环形链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question142_环形链表II.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question148_链表排序.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question160_求两个链表的焦点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question206_反转链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/链表/Question234_回文链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dongtaiguihuaTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode216组合数之和3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode377组合数之和4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode39组合数之和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode40组合数2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode45JumpGame2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode46Permutations排列数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode47Permutations排列数2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode55JumpGame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode77组合数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode78Subsets.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/dfs_backtracking查找/leetcode90Subsets2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode120.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode121.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode122.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode123.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode134_加油站.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode135_分糖果.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode139_拆词.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode140_拆词2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode152.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode17电话号组合.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode279.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode309.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode413.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode494_BestTimetoBuyandSellStock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode53.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode62.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode63.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode64.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode70.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode95.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/dp/leetcode96.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode18.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode303.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode43大数相乘.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/leetcode84Largest_Rectangle_in_Histogram.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/maximal_rectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/tree/Trie.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/全排列/全排列递归.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/全排列/全排列非递归.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/全排列/去重全排列递归.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/newcoder.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/JstackTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/Simplify_Path.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/util/ListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/util/RandomListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/util/TreeLinkNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/util/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛41/反转子串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛41/比赛日程安排.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛43/自底向上遍历二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛45/LR问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛45/互补二元组.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛45/寻找切线.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛45/推断大小关系.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛47/删除树节点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛47/数组区间.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛48/假期计划.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛48/折线中点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛48/最小先序遍历.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛48/矩阵深度.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/bin矩阵迷宫.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/挑选子集.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/相似颜色.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/矩阵迷宫.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/矩阵迷宫2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛49/第k小先序遍历.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛50/座位问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛50/循环数组.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛53/hiho字符串3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛53/最长一次上升子序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛53/继承顺位.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛54/回文字符串2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛54/小数数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛54/最小差值.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Binary_Tree_Postorder_Traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Convert_Sorted_List_to_Binary_Search_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Copy_List_with_Random_Pointer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/DP/Wildcard_Matching.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/DP/regular_expression_matching.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Evaluate_Reverse_Polish_Notation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Integer_to_Roman.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Length_of_Last_Word.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Longest_Common_Prefix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/NP/generate_Parenthesis.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/NP/n_queens.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/NP/sudoku_solver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/NP/valid_sudoku.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Partition_List.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Remove_Duplicates_from_Sorted_List2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Roman_to_Integer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Set_Matrix_Zeroes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Symmetric_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/Text_Justification.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/balanced_binary_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/binary_tree_level_order_traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/binary_tree_level_order_traversal_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/binary_tree_maximum_path_sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/binary_tree_zigzag_level_order_traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/convert_sorted_array_to_binary_search_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/count_and_say.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/divide_two_integers.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/linked_list_cycle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/linked_list_cycle2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/longest_consecutive_sequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/longest_valid_parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/max_points_on_a_line.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/maximal_rectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/maximum_depth_of_binary_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/merge_k_sorted_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/merge_two_sorted_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/minimum_depth_of_binary_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/minimum_window_substring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/pascals_triangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/pascals_triangle2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/path_sum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/path_sum2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/populating_next_right_pointers_in_each_node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/populating_next_right_pointers_in_each_node2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/recover_binary_search_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/remove_duplicates_from_sorted_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/remove_nth_node_from_end_of_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/reorder_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/reverse_linked_list2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/reverse_nodes_in_k_group.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/rotate_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/same_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/search_for_a_range.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/search_in_rotated_sorted_array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/search_in_rotated_sorted_array2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/search_insert_position.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/sort_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/sum_root_to_leaf_numbers.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/surrounded_regions.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/swap_nodes_in_pairs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/trapping_rain_water.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/unique_binary_search_trees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/unique_binary_search_trees2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/util/slinkUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/valid_palindrome.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/valid_parentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/validate_binary_search_tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/word_ladder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/word_ladder_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/word_search.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/word_search2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/zigzag_conversion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/回文/Longest_Palindromic_Substring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/回文/palindrome_partitioning.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/字符串/anagrams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/字符串/strStr.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/字符串/substring_with_concatenation_of_all_words.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/排序/insert_interval.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/排序/insertion_sort_list.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/排序/merge_intervals.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数学/valid_number.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数学/二进制相加.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/Palindrome_Number.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/Plus_one.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/container_with_most_water.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/first_missing_positive.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/merge_sorted_array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/next_permutation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/remove_duplicates_from_sorted_array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/remove_duplicates_from_sorted_array2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/remove_element.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/rotate_image.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/search_a_2d_matrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/sort_colors.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/spiral_matrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/spiral_matrix2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/leetgroup/数组/three_sum_closest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/llongest_substring_without_repeating_characters.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/Subtree_of_Another_Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/平衡二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题11_旋转数组的最小数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题20_表示数值的字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题26_树的子结构.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题28_对称的二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题33_二叉搜索树的后序遍历序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题35_复杂链表的复制.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题39_数组中出现次数超过一半的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题40_最小的K个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题41_数据流中的中位数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题42_连续子数组的最大和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题43_整数中1出现的次数_1到n.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题51_数组中的逆序对.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题53_数字在排序数组中出现的次数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题59_滑动窗口的最大值.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/again/题60_n个骰子的点数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/util/ListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/util/RandomListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/util/TreeLinkNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/util/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/变态跳台阶.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/平衡二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/打印从1到最大的n位数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/把二叉树打印成多行.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/按之字形顺序打印二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/矩形覆盖.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/礼物的最大价值.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/综合_把字符串转换成整数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/青蛙跳台阶.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题10_斐波那契数列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题11_旋转数组的最小数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题12_机器人的运动范围.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题12_矩阵中的路径.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题14_二进制中1的个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题16_数值的整数次方.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题18_删除链表中重复的结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题19_正则表达式匹配.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题20_表示数值的字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题21_调整数组顺序使奇数位于偶数前.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题22_链表中倒数第k个结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题23_链表中环的入口结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题24_反转链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题25_合并两个排序的链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题26_树的子结构.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题27_二叉树的镜像.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题28_对称的二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题29_顺时针打印矩阵.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题30_包含min函数的栈.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题31_栈的压入弹出序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题32_从上往下打印二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题33_二叉搜索树的后序遍历序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题34_二叉树中和为某一值的路径.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题35_复杂链表的复制.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题36_二叉搜索树与双向链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题37_序列化二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题38_字符串的排列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题39_数组中出现次数超过一半的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题3_数组中重复的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题40_最小的K个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题41_数据流中的中位数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题42_连续子数组的最大和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题43_整数中1出现的次数_1到n.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题45_把数组排成最小的数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题46_把数字翻译成字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题48_最长不含重复字符的子字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题49_丑数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题4_二维数组中的查找.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题50_第一个只出现一次的字符.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题51_数组中的逆序对.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题52_两个链表的第一个公共结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题53_数字在排序数组中出现的次数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题54_二叉搜索树的第k个结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题55_二叉树的深度.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题56_数组中只出现一次的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题57_2_和为S的连续正数序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题57_和为S的两个数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题58_2_左旋转字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题58_翻转单词顺序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题59_滑动窗口的最大值.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题5_替换空格.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题60_n个骰子的点数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题61_扑克牌顺子.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题62_圆圈中最后剩下的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题63_股票的最大利润.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题64_求1到n的和_限制.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题65_不用加减乘除做加法.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题66_构建乘积数组.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题6_从尾到头打印链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题7_重建二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题8_二叉树的下一个结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer/题9_用两个栈实现队列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/reverse_integer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/singleNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/tets.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/A_Number_Sequence.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/B_Oulipo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/C_剪花布条.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/D_Cyclic_Nacklace_最小循环节.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/E_Period.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/F_The_Minimum_Length.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/G_Seek_the_Name_Seek_the_Fame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/H_Blue_Jeans.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/I_Simpsons_Hidden_Talents.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/first0307/好多鱼.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/first0307/序列和.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/first0307/翻转01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/first0307/超级幂级数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/m皇后.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/new3_23/Question2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/乌龟跑步.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/小白/Question1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/小白/Question3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/幸运数字1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/幸运数字2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/幸运数字3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_3/幸运数字4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder_2018_2_25/字符串的问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/newcoder_2018_2_25/逆序数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/pingduoduo0801/pingduoduo_4_3/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/pingduoduo0801/pingduoduo_4_3/三角形.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/pingduoduo0801/冒险家.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/pingduoduo0801/无序数组3个数最大乘积.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/second0323/Main4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/second0323/字符串分类.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/second0323/平衡数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/third0519/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/third0519/dp.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/third0519/排序子序列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/third0519/牛牛的数列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/third0519/组队竞赛.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/真题/下厨房.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/真题/合唱团.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/真题/地牢逃脱.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/真题/洗牌.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/网易3_27/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/网易3_27/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/网易3_27/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/网易3_27/牛牛找工作.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/网易3_27/矩阵重叠.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question301_删除最小数目无效的括号.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/newcoder/test.class" afterPath="$PROJECT_DIR$/out/production/newcoder/test.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -497,51 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Course_Schedule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/图/Course_Schedule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Counting_Bits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Counting_Bits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question34Search_for_a_Range.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question34Search_for_a_Range.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode43大数相乘.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode43大数相乘.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="leetcode84Largest_Rectangle_in_Histogram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode84Largest_Rectangle_in_Histogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="0">
               <caret line="71" column="1" lean-forward="false" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
               <folding />
             </state>
@@ -551,7 +30,7 @@
       <file leaf-file-name="maximal_rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/maximal_rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="0">
               <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
               <folding />
             </state>
@@ -571,24 +50,84 @@
       <file leaf-file-name="题12_机器人的运动范围.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题12_机器人的运动范围.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-402">
+            <state relative-caret-position="0">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="比赛日程安排.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="比赛日程安排.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛41/比赛日程安排.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="-8">
               <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Question9_Palindrome_Number.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question9_Palindrome_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question2_add_two_numbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding>
+                <element signature="e#2404#2405#0" expanded="true" />
+                <element signature="e#2445#2446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question3_Longest_Substring_Without_Repeating_Characters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question3_Longest_Substring_Without_Repeating_Characters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question1_two_sum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question1_two_sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question301_删除最小数目无效的括号.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question301_删除最小数目无效的括号.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -604,6 +143,8 @@
         <option value="$PROJECT_DIR$/src/hihocoder/Top_Interview_Questions/图/Course_Schedule.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Top_Interview_Questions/图/Course_Schedule.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/again/Question101_对称二叉树.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question301_删除最小数目无效的括号.java" />
       </list>
     </option>
   </component>
@@ -613,12 +154,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="25" />
-    <option name="width" value="1440" />
-    <option name="height" value="823" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="17" />
+    <option name="width" value="1597" />
+    <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -634,57 +178,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Top_Interview_Questions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Top_Interview_Questions_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.10691319" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.splitter.proportion" value="0.19911894" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -705,59 +249,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.比赛日程安排">
+  <component name="RunManager" selected="Application.Question1_two_sum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="比赛日程安排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.编程练习赛41.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛41.比赛日程安排" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="网易3_27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="网易3_27.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="Question34Search_for_a_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Question1_two_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Top_Interview_Questions_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question34Search_for_a_Range" />
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question1_two_sum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="Question2_add_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question2_add_two_numbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="Question3_Longest_Substring_Without_Repeating_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question3_Longest_Substring_Without_Repeating_Characters" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -781,34 +325,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="leetcode84Largest_Rectangle_in_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="leetcode84Largest_Rectangle_in_Histogram" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="maximal_rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="maximal_rectangle" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -871,20 +387,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Question34Search_for_a_Range" />
-      <item index="1" class="java.lang.String" itemvalue="Application.leetcode84Largest_Rectangle_in_Histogram" />
-      <item index="2" class="java.lang.String" itemvalue="Application.maximal_rectangle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.比赛日程安排" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Question2_add_two_numbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Question3_Longest_Substring_Without_Repeating_Characters" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Question1_two_sum" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.比赛日程安排" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.maximal_rectangle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.leetcode84Largest_Rectangle_in_Histogram" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Question34Search_for_a_Range" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Question1_two_sum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Question3_Longest_Substring_Without_Repeating_Characters" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Question2_add_two_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -892,7 +404,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -902,42 +414,43 @@
       <option name="presentableId" value="Default" />
       <updated>1523712125307</updated>
       <workItem from="1523712129834" duration="972000" />
+      <workItem from="1523713648903" duration="6024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="972000" />
+    <option name="totallyTimeSpent" value="6996000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="823" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18603411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -951,102 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions/图/Course_Schedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question128_最长连续序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question283_移动零.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question240_搜索二维矩阵2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question238_除自身以外数组的乘积.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question221_最大正方形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question218_天际线问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question152_乘积最大子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/again/Question101_对称二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question75_Sort_Colors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question300_最长上升子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question287_寻找重复数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/图/Course_Schedule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1057,31 +474,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Counting_Bits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="368">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/tmp/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/tmp/MyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question34Search_for_a_Range.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
+        <state relative-caret-position="575">
           <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding />
         </state>
@@ -1089,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode43大数相乘.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="1242">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding />
         </state>
@@ -1097,7 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode84Largest_Rectangle_in_Histogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="1610">
           <caret line="71" column="1" lean-forward="false" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
           <folding />
         </state>
@@ -1105,7 +506,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/maximal_rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="1633">
+          <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔试/src/网易3_27/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题12_机器人的运动范围.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛41/比赛日程安排.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions/图/Course_Schedule.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question128_最长连续序列.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question283_移动零.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question240_搜索二维矩阵2.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question238_除自身以外数组的乘积.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question221_最大正方形.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question218_天际线问题.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question152_乘积最大子序列.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/again/Question101_对称二叉树.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question75_Sort_Colors.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question300_最长上升子序列.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Top_Interview_Questions_2/Question287_寻找重复数.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/图/Course_Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/Counting_Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/tmp/Run.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/tmp/MyTask.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question34Search_for_a_Range.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode43大数相乘.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode84Largest_Rectangle_in_Histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="71" column="1" lean-forward="false" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/maximal_rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
           <folding />
         </state>
@@ -1119,17 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/JVM_demo/referenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/JVM_demo/referenceTest.java" />
     <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题12_机器人的运动范围.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402">
+        <state relative-caret-position="0">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
@@ -1137,8 +617,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newcoder/src/hihocoder/编程练习赛41/比赛日程安排.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="-8">
           <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question9_Palindrome_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question2_add_two_numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2445#2446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question3_Longest_Substring_Without_Repeating_Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question1_two_sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question301_删除最小数目无效的括号.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding />
         </state>
       </provider>

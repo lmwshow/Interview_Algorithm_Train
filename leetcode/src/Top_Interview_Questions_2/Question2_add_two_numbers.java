@@ -95,6 +95,6 @@ public class Question2_add_two_numbers {
 
 
     public static void main(String[] args){
-
+        System.out.println("yes");
     }
 }
