@@ -1,5 +1,7 @@
 package 网易实习面试4_17;
 
+import java.util.HashSet;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -41,6 +43,8 @@ public class 将一个字符复制到n个字符 {
             String ans = copy("a", in.nextInt());
             System.out.println(ans);
             System.out.println(ans.length());
+
+            System.out.println(new Object().hashCode());
         }
     }
 }
