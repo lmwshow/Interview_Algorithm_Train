@@ -5,6 +5,9 @@ import java.util.Map;
 
 /**
  * Created by Gracecoder on 2017/11/6.
+ *
+ * 这里用递归去遍历树，会重复计算很多点
+ * 所以使用了Map来做缓存进行优化
  */
 public class House_Robber_III {
 
