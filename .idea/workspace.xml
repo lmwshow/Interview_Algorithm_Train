@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question437_路径总和III.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question416_是否可以化为两个和相等的子集.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/dp/Question416_是否可以化为两个和相等的子集.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/newcoder/src/reverse_integer.java" afterPath="$PROJECT_DIR$/newcoder/src/reverse_integer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -678,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524539136020</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2018/4/26">
+      <created>1524709328965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524709328965</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58864000" />
+    <option name="totallyTimeSpent" value="58889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -774,7 +777,8 @@
     <MESSAGE value="网易面试手撕题" />
     <MESSAGE value="dp问题_戳气球" />
     <MESSAGE value="打家劫舍3" />
-    <option name="LAST_COMMIT_MESSAGE" value="打家劫舍3" />
+    <MESSAGE value="2018/4/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/4/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
