@@ -35,8 +35,8 @@ public class reverse_integer {
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
 
-
         System.out.println(reverse(1563847412));
+
 
 
     }
