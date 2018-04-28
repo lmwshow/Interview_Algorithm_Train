@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question438_找字符串中所有的同字异形字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question448_找到所有数组中消失的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question461_汉明距离.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question494_目标和.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question538_把二叉搜索树转换为累加树.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question543_二叉树的直径.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question494_目标和.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,28 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Question347_前K个高频元素.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question347_前K个高频元素.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question394_字符串解码.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question394_字符串解码.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="34" column="73" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Question406_根据身高重建队列.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question406_根据身高重建队列.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,16 +27,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue_Reconstruction_by_Height.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions/again/Queue_Reconstruction_by_Height.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -94,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question448_找到所有数组中消失的数字.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question448_找到所有数组中消失的数字.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -104,22 +74,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="全排列递归.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/全排列/全排列递归.java">
+      <file leaf-file-name="Question461_汉明距离.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question461_汉明距离.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="103">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question494_目标和.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question494_目标和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-360">
+              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="全排列非递归.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/全排列/全排列非递归.java">
+      <file leaf-file-name="Question494_目标和.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question494_目标和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="78" column="5" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
+            <state relative-caret-position="160">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question538_把二叉搜索树转换为累加树.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question538_把二叉搜索树转换为累加树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question543_二叉树的直径.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question543_二叉树的直径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,6 +198,11 @@
         <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question438_找字符串中所有的同字异形字符串.java" />
         <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question448_找到所有数组中消失的数字.java" />
         <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question461_汉明距离.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question494_目标和.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question494_目标和.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question538_把二叉搜索树转换为累加树.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question543_二叉树的直径.java" />
       </list>
     </option>
   </component>
@@ -252,14 +264,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Top_Interview_Questions_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Top_Interview_Questions_2" type="462c0819:PsiDirectoryNode" />
-              <item name="again" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
@@ -433,69 +437,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question438_找字符串中所有的同字异形字符串">
+  <component name="RunManager" selected="Application.Question543_二叉树的直径">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Question312_戳气球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Top_Interview_Questions_2.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.dp.Question312_戳气球" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="Question315_计算右侧小于当前元素的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Top_Interview_Questions_2.树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.树.Question315_计算右侧小于当前元素的个数" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="Question338_Bit位计数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question338_Bit位计数" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
     </configuration>
     <configuration name="Question406_根据身高重建队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -524,6 +471,63 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question438_找字符串中所有的同字异形字符串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="Question461_汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question461_汉明距离" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="Question494_目标和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question494_目标和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="Question543_二叉树的直径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Top_Interview_Questions_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Top_Interview_Questions_2.Question543_二叉树的直径" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -610,19 +614,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Question312_戳气球" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Question315_计算右侧小于当前元素的个数" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Question338_Bit位计数" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Question406_根据身高重建队列" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Question438_找字符串中所有的同字异形字符串" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Question406_根据身高重建队列" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Question438_找字符串中所有的同字异形字符串" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Question461_汉明距离" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Question494_目标和" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Question543_二叉树的直径" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Question438_找字符串中所有的同字异形字符串" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Question406_根据身高重建队列" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Question338_Bit位计数" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Question315_计算右侧小于当前元素的个数" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Question312_戳气球" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Question543_二叉树的直径" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Question494_目标和" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Question461_汉明距离" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Question438_找字符串中所有的同字异形字符串" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Question406_根据身高重建队列" />
       </list>
     </recent_temporary>
   </component>
@@ -645,7 +649,7 @@
       <workItem from="1524096793085" duration="4878000" />
       <workItem from="1524137773064" duration="1585000" />
       <workItem from="1524181509563" duration="5233000" />
-      <workItem from="1524446335038" duration="22580000" />
+      <workItem from="1524446335038" duration="32326000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -703,11 +707,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524624977216</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2018/4/27">
+      <created>1524794434705</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524794434705</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59581000" />
+    <option name="totallyTimeSpent" value="69327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -715,13 +726,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997833" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593717" sideWeight="0.52771854" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24593717" sideWeight="0.48081023" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593717" sideWeight="0.47228146" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -732,7 +743,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997833" sideWeight="0.48933902" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.48507464" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -780,7 +791,8 @@
     <MESSAGE value="dp问题_戳气球" />
     <MESSAGE value="打家劫舍3" />
     <MESSAGE value="2018/4/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/4/25" />
+    <MESSAGE value="2018/4/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/4/27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -826,47 +838,18 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question494_目标和.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question287_寻找重复数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question283_移动零.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question240_搜索二维矩阵2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question238_除自身以外数组的乘积.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/again/题43_整数中1出现的次数_1到n.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newcoder/src/offer/again/题51_数组中的逆序对.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -1197,6 +1180,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="62" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question461_汉明距离.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question448_找到所有数组中消失的数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -1208,11 +1210,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question494_目标和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="17" column="62" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        <state relative-caret-position="-360">
+          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question494_目标和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question538_把二叉搜索树转换为累加树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/Question543_二叉树的直径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
