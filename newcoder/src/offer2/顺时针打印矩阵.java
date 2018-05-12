@@ -1,7 +1,9 @@
 package offer2;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Consumer;
+import java.util.stream.Collectors;
 
 /**
  * @Auther: minGW
@@ -60,7 +62,10 @@ public class 顺时针打印矩阵 {
 
         ArrayList<Integer> ans = printMatrix(nums);
 
+        List<Integer> list = ans.stream().filter((x)->x>3).collect(Collectors.toList());
+
         ans.forEach((n)->System.out.println(n));
+        list.forEach((n)->System.out.println(n));
         //lambda表达式，函数式接口
         ans.forEach(new Consumer<Integer>() {
             @Override
