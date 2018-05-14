@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树与双向链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/字符串的排列.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/数组中出现次数超过一半的数字.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/最小的K个数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/连续子数组的最大和.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/newcoder/test.class" afterPath="$PROJECT_DIR$/out/production/newcoder/test.class" />
     </list>
@@ -682,7 +677,7 @@
       <workItem from="1524181509563" duration="5233000" />
       <workItem from="1524446335038" duration="16713000" />
       <workItem from="1524805039557" duration="102000" />
-      <workItem from="1526286102886" duration="5446000" />
+      <workItem from="1526286102886" duration="5528000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -747,11 +742,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524709336207</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2018/5/14_offer2_day6">
+      <created>1526294777990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526294777991</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64602000" />
+    <option name="totallyTimeSpent" value="64684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
@@ -824,7 +826,8 @@
     <MESSAGE value="dp问题_戳气球" />
     <MESSAGE value="打家劫舍3" />
     <MESSAGE value="2018/4/26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/4/26" />
+    <MESSAGE value="2018/5/14_offer2_day6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/5/14_offer2_day6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
