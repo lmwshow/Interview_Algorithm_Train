@@ -83,6 +83,6 @@ public class 题45_把数组排成最小的数 {
 
     public static void main(String[] args){
 
-        PrintMinNumber(new int[]{1,2,123,1212});
-    }
+        System.out.println(
+                PrintMinNumber(new int[]{1,2,123,1212}));    }
 }
