@@ -73,8 +73,8 @@ public class 字符流中第一个不重复的字符 {
 
         for (int i = 0 ; i < stringBuffer.length() ; i++)
         {
-            Insert(stringBuffer.charAt(i));
-            System.out.println(FirstAppearingOnce());
+            mw_Insert(stringBuffer.charAt(i));
+            System.out.println(mw_FirstAppearingOnce());
         }
 
     }
