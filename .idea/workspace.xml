@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/二叉树的下一个结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/删除链表中重复的结点.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/对称的二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/把二叉树打印成多行.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/按之字形顺序打印二叉树.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/链表中环的入口结点.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/newcoder/src/offer2/二叉树的镜像.java" afterPath="$PROJECT_DIR$/newcoder/src/offer2/二叉树的镜像.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,26 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="链表中环的入口结点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/链表中环的入口结点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="删除链表中重复的结点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/删除链表中重复的结点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="二叉树的下一个结点.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉树的下一个结点.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,11 +52,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="把二叉树打印成多行.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="把二叉树打印成多行.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/把二叉树打印成多行.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题37_序列化二叉树.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题37_序列化二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="序列化二叉树.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="52" column="15" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="二叉搜索树的第k个结点.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数据流中的中位数.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -102,28 +118,6 @@
             <state relative-caret-position="180">
               <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="题18_删除链表中重复的结点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题18_删除链表中重复的结点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/util/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -161,9 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/跳台阶.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/变态跳台阶.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/矩形覆盖.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/again/旋转数组的最小数字.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/二进制中1的个数.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer/题16_数值的整数次方.java" />
@@ -212,6 +203,9 @@
         <option value="$PROJECT_DIR$/newcoder/src/offer2/对称的二叉树.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/按之字形顺序打印二叉树.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/把二叉树打印成多行.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java" />
       </list>
     </option>
   </component>
@@ -777,7 +771,7 @@
       <workItem from="1526626651635" duration="616000" />
       <workItem from="1526692503484" duration="24983000" />
       <workItem from="1526910587743" duration="2803000" />
-      <workItem from="1526945644193" duration="6189000" />
+      <workItem from="1526945644193" duration="9638000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -933,11 +927,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526912997390</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2018/5/22_offer2_day12">
+      <created>1526951854001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526951854001</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186758000" />
+    <option name="totallyTimeSpent" value="190207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1053,7 +1054,8 @@
     <MESSAGE value="2018/5/18_offer2_day9" />
     <MESSAGE value="2018/5/19_offer2_day10" />
     <MESSAGE value="2018/5/21_offer2_day11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/5/21_offer2_day11" />
+    <MESSAGE value="2018/5/22_offer2_day12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/5/22_offer2_day12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1276,35 +1278,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/顺时针打印矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉树中和为某一值的路径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题34_二叉树中和为某一值的路径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/again/二叉搜索树的后序遍历序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/util/RandomListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1527,7 +1500,7 @@
         <state relative-caret-position="400">
           <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1611,7 +1584,7 @@
         <state relative-caret-position="240">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1676,6 +1649,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题37_序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="52" column="15" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
           <folding />
         </state>
       </provider>
