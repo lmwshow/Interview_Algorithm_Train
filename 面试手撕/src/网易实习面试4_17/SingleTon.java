@@ -49,3 +49,22 @@ class SingleTonBest{
 }
 
 
+class StaticSingleton{
+
+    //定义初始化构造函数
+    private StaticSingleton(){
+
+    }
+
+    //内部类，类初始化时，生成实例，且类初始化只发生一次
+    //用private 声明，保证外部无法访问，并初始化它
+    private static class SingleHolder{
+        private static StaticSingleton instance = new StaticSingleton();
+    }
+
+    public static StaticSingleton getInstance(){
+        return SingleHolder.instance;
+    }
+}
+
+
