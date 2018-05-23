@@ -10,6 +10,8 @@ import java.util.Scanner;
 public class Question3 {
 
 
+    //这里使用连接矩阵表示图，当N=10000时  内存溢出 ，  应该使用链接表表示图
+
     static int MAX=10000;//(此路不通)
 
     public static void main(String[] args){
