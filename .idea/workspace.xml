@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/笔试/src/newcoder2018_5/Question3.java" afterPath="$PROJECT_DIR$/笔试/src/newcoder2018_5/Question3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -585,7 +584,7 @@
       <workItem from="1526286102886" duration="8152000" />
       <workItem from="1526430480003" duration="8111000" />
       <workItem from="1527075176437" duration="5105000" />
-      <workItem from="1527080770940" duration="750000" />
+      <workItem from="1527080770940" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -678,11 +677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527080779175</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2018/5/16_offer2_day7">
+      <created>1527084580528</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527084580528</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81274000" />
+    <option name="totallyTimeSpent" value="81296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1003" extended-state="6" />
