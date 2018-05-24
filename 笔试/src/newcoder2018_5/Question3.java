@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @Auther: minGW
  * @Date: 2018/5/23 20:28
- * @Description
+ * @Description 用连接矩阵表示的Dijsktra单源最短路径
  */
 public class Question3 {
 
@@ -33,10 +33,6 @@ public class Question3 {
 
         for (int i = 0 ; i < M; i++)
             map[in.nextInt()-1][in.nextInt()-1] = in.nextInt();
-
-//        int[][] map = {
-//                {0,3,M},{M,0,3},{1,M,0}
-//        };
 
         int ans = 0;
 
