@@ -1,8 +1,6 @@
 package offer.again;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.PriorityQueue;
+import java.util.*;
 
 
 //这里用的优先队列
@@ -40,6 +38,39 @@ public class 题59_滑动窗口的最大值 {
 
 
         return res;
+    }
+
+
+    public static int[] maxSlidingWindow(int[] nums, int k) {
+
+        if(nums == null || nums.length == 0) return new int[0];
+
+        int n = nums.length;
+
+        int[] ans = new int[n - k +1];
+
+        Deque<Integer> deque = new LinkedList<>();
+
+        int right = 0;
+
+
+        while (right < n)
+        {
+            while (!deque.isEmpty() && (right - deque.peekFirst())>=k)
+                deque.pollFirst();
+
+            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[right])
+                deque.pollLast();
+
+            deque.offerLast(right);
+
+            if (right >= k - 1)
+                ans[right - k +1] = nums[deque.peekFirst()];
+            right++;
+        }
+
+
+        return ans;
     }
 
     public static void main(String[] args){
