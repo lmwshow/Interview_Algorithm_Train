@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Interview_algorithm_Train.iml" filepath="$PROJECT_DIR$/Interview_algorithm_Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hihocoder/hihocoder.iml" filepath="$PROJECT_DIR$/hihocoder/hihocoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/newcoder/newcoder.iml" filepath="$PROJECT_DIR$/newcoder/newcoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/笔试/笔试.iml" filepath="$PROJECT_DIR$/笔试/笔试.iml" />
