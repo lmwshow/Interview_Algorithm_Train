@@ -15,7 +15,7 @@ import java.util.List;
     2.二叉树含有父节点，可以转化为两个链表，求最近公共点
     3.二叉树没有父节点，同样可以先找到两个节点的路径，然后转化为链表 求最后面的相交点
  */
-public class Question236_二叉树的最近公共祖先 {
+public class  Question236_二叉树的最近公共祖先 {
 
     static TreeNode ans;
     public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
