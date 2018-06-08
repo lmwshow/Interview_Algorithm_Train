@@ -46,6 +46,9 @@ class SingleTonBest{
         return instance;
     }
 
+
+
+
 }
 
 
@@ -67,4 +70,16 @@ class StaticSingleton{
     }
 }
 
+enum enumSingleton{
+    INSTANCE;
+
+    public void whateverMethod(){}
+
+
+    public static void main(String[] args){
+
+        enumSingleton singleton = enumSingleton.INSTANCE;
+
+    }
+}
 

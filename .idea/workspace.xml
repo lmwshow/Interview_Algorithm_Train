@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" afterPath="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" />
+      <change beforePath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" />
+      <change beforePath="$PROJECT_DIR$/面试手撕/src/Main.java" afterPath="$PROJECT_DIR$/面试手撕/src/Main.java" />
+      <change beforePath="$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java" afterPath="$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="后序遍历.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java">
+      <file leaf-file-name="树中最长路.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-728">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="420">
+              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="树中最长路.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java">
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="20">
+              <caret line="561" column="22" lean-forward="false" selection-start-line="561" selection-start-column="22" selection-end-line="561" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="无间道之并查集.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,8 +62,8 @@
       <file leaf-file-name="刷油漆_树形DP.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-244">
-              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="20">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,21 +74,55 @@
       <file leaf-file-name="Question236_二叉树的最近公共祖先.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LCA.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LCA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-410">
-              <caret line="136" column="30" lean-forward="false" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+            <state relative-caret-position="-360">
+              <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCA在线算法.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="26" column="98" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="26" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RMQ_ST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocal.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,46 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/util/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="11" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question105_从前序与中序遍历序列构造二叉树.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question105_从前序与中序遍历序列构造二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二叉搜索树的后序遍历序列.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/again/二叉搜索树的后序遍历序列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="940">
-              <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question105_从前序与中序遍历序列构造二叉树.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question105_从前序与中序遍历序列构造二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -164,11 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/平衡二叉树.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/和为S的连续正数序列.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/和为S的两个数字.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/左旋转字符串.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/数组中只出现一次的数字.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/翻转单词顺序列.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/扑克牌顺子.java" />
         <option value="$PROJECT_DIR$/newcoder/src/offer2/孩子们的游戏_圆圈中最后剩下的数.java" />
@@ -211,10 +213,15 @@
         <option value="$PROJECT_DIR$/笔试/src/Main.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树/后序遍历.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java" />
         <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java" />
+        <option value="$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java" />
+        <option value="$PROJECT_DIR$/面试手撕/src/Main.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java" />
       </list>
     </option>
   </component>
@@ -224,9 +231,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="280" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="331" />
     <option name="width" value="1597" />
     <option name="height" value="1000" />
   </component>
@@ -248,6 +254,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,56 +286,29 @@
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
-              <item name="树练习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer2" type="462c0819:PsiDirectoryNode" />
-              <item name="again" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,17 +318,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/IdeaProjects/OpenRpc" />
+    <property name="last_opened_file_path" value="E:/IdeaProjects/minGW" />
     <property name="settings.editor.splitter.proportion" value="0.19911894" />
     <property name="SearchEverywhereHistoryKey" value="最近&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question236_二叉树的最近公共祖先&#10;路径&#9;FILE&#9;file://E:/Interview_Algorithm_Train/leetcode/src/Top_Interview_Questions_2/again/Question124_二叉树中的最大路径和.java&#10;前序&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question105_从前序与中序遍历序列构造二叉树&#10;滑动&#9;PSI&#9;JAVA://Top_Interview_Questions_2.滑动窗口类似求最值系列.Question239_滑动窗口最大值&#10;中序&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question105_从前序与中序遍历序列构造二叉树&#10;偏移&#9;null&#9;null&#10;卡塔兰数&#9;null&#9;null&#10;Cata&#9;PSI&#9;JAVA://offer2.栈的压入弹出序列#CatalanNumber&#10;tou&#9;PSI&#9;JAVA://com.sun.glass.ui.TouchInputSupport#touch&#10;isSubtree&#9;PSI&#9;JAVA://Top_Interview_Questions.Subtree_of_Another_Tree#isSubtree&#10;Queue&#9;PSI&#9;JAVA://Top_Interview_Questions.again.Queue_Reconstruction_by_Height&#10;Count of Smaller Numbers After Self&#9;PSI&#9;JAVA://Top_Interview_Questions.Count_of_Smaller_Numbers_After_Self" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Interview_Algorithm_Train\hihocoder\src" />
-      <recent name="E:\Interview_Algorithm_Train\笔试\src" />
-      <recent name="E:\Interview_Algorithm_Train\newcoder\src\offer2" />
-      <recent name="$PROJECT_DIR$/newcoder/src" />
-      <recent name="$PROJECT_DIR$/leetcode/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Interview_Algorithm_Train" />
+      <recent name="E:\Interview_Algorithm_Train\newcoder\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="offer2.again" />
@@ -353,9 +333,12 @@
       <recent name="Top_Interview_Questions_2.again" />
       <recent name="Top_Interview_Questions_2.树" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Interview_Algorithm_Train" />
-      <recent name="E:\Interview_Algorithm_Train\newcoder\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Interview_Algorithm_Train\hihocoder\src" />
+      <recent name="E:\Interview_Algorithm_Train\笔试\src" />
+      <recent name="E:\Interview_Algorithm_Train\newcoder\src\offer2" />
+      <recent name="$PROJECT_DIR$/newcoder/src" />
+      <recent name="$PROJECT_DIR$/leetcode/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,21 +353,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LCA">
+  <component name="RunManager" selected="Application.RMQ_ST">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="经典01背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="骨牌覆盖问题二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="hihocoder.DP练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.经典01背包" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题二" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -393,17 +376,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
+      <module name="hihocoder" />
       <envs />
     </configuration>
-    <configuration name="状态压缩2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="无间道之并查集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
+          <option name="PATTERN" value="hihocoder.树练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.状态压缩2" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.树练习.无间道之并查集" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -434,7 +417,26 @@
       <module name="hihocoder" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LCA在线算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.树练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.树练习.LCA在线算法" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hihocoder" />
+      <envs />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="VM_PARAMETERS" />
@@ -445,17 +447,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="笔试" />
+      <module name="面试手撕" />
       <envs />
     </configuration>
-    <configuration name="骨牌覆盖问题二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RMQ_ST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
+          <option name="PATTERN" value="hihocoder.树练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题二" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.树练习.RMQ_ST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -465,158 +467,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="hihocoder" />
-      <envs />
-    </configuration>
-    <configuration name="数字三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.数字三角形" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="完全背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.完全背包" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.复杂链表的复制" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="二叉树的下一个结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.二叉树的下一个结点" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.滑动窗口的最大值" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="骨牌覆盖问题二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题二" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="hihocoder" />
-      <envs />
-    </configuration>
-    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.斐波那契数列" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="数值的整数次方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.again.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.数值的整数次方" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
       <envs />
     </configuration>
     <configuration name="字符流中第一个不重复的字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -809,6 +659,25 @@
       <module name="newcoder" />
       <envs />
     </configuration>
+    <configuration name="数字三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.DP练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.数字三角形" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
     <configuration name="骨牌覆盖问题一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -828,14 +697,90 @@
       <module name="hihocoder" />
       <envs />
     </configuration>
-    <configuration name="刷油漆_树形DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="完全背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hihocoder.树练习.*" />
+          <option name="PATTERN" value="hihocoder.DP练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.树练习.刷油漆_树形DP" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.完全背包" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.复杂链表的复制" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="二叉树的下一个结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.二叉树的下一个结点" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.滑动窗口的最大值" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="骨牌覆盖问题二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.DP练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题二" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -845,6 +790,44 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="hihocoder" />
+      <envs />
+    </configuration>
+    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.斐波那契数列" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="数值的整数次方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.数值的整数次方" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -922,19 +905,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.经典01背包" />
-      <item index="1" class="java.lang.String" itemvalue="Application.状态压缩2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.刷油漆_树形DP" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LCA" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LCA" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.无间道之并查集" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LCA在线算法" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RMQ_ST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LCA" />
-        <item index="1" class="java.lang.String" itemvalue="Application.刷油漆_树形DP" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.状态压缩2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.经典01背包" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RMQ_ST" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LCA在线算法" />
+        <item index="2" class="java.lang.String" itemvalue="Application.无间道之并查集" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LCA" />
       </list>
     </recent_temporary>
   </component>
@@ -979,7 +962,8 @@
       <workItem from="1527811366220" duration="5947000" />
       <workItem from="1527906300993" duration="3352000" />
       <workItem from="1528157782370" duration="10646000" />
-      <workItem from="1528245975527" duration="11493000" />
+      <workItem from="1528245975527" duration="19364000" />
+      <workItem from="1528332215987" duration="17338000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -1198,37 +1182,43 @@
       <option name="project" value="LOCAL" />
       <updated>1528167358447</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2018/6/4_hihocoder_赛题整理树类_day2">
+      <created>1528267316101</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1528267316102</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253067000" />
+    <option name="totallyTimeSpent" value="278276000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="331" y="0" width="1597" height="1000" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756633" sideWeight="0.48015615" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.478145" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23618636" sideWeight="0.57302773" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25144175" sideWeight="0.5836044" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23618636" sideWeight="0.42697227" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25144175" sideWeight="0.41639557" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21405335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37486458" sideWeight="0.46162048" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37485582" sideWeight="0.45087832" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1301,9 +1291,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="网易面试手撕题" />
-    <MESSAGE value="dp问题_戳气球" />
-    <MESSAGE value="打家劫舍3" />
     <MESSAGE value="2018/4/25" />
     <MESSAGE value="2018/4/27" />
     <MESSAGE value="2018/4/28" />
@@ -1326,7 +1313,10 @@
     <MESSAGE value="2018/5/29_hihocoder_赛题整理DP类_day3" />
     <MESSAGE value="2018/6/4_hihocoder_赛题整理DP类_day4" />
     <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/6/4_hihocoder_赛题整理树类_day1" />
+    <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day2" />
+    <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day3_LCA&amp;RMQ" />
+    <MESSAGE value="2018/6/8_hihocoder_赛题整理树类_day4_LCA&amp;RMQ" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/6/8_hihocoder_赛题整理树类_day4_LCA&amp;RMQ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1582,71 +1572,39 @@
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="63" />
+      <option name="time" value="68" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/word_search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/word_ladder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/sum_root_to_leaf_numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/populating_next_right_pointers_in_each_node2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/pascals_triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/maximum_depth_of_binary_tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/convert_sorted_array_to_binary_search_tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/binary_tree_level_order_traversal_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newcoder/src/leetgroup/字符串/anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1811,7 +1769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1819,7 +1776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1827,7 +1783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1835,7 +1790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1882,7 +1836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1240">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1898,7 +1851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1906,7 +1858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1914,7 +1865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1922,7 +1872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="11" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1930,7 +1879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1938,6 +1886,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="940">
           <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="e#1383#1384#0" expanded="false" />
+            <element signature="e#1427#1428#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#520#521#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1950,38 +1947,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java">
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="561" column="22" lean-forward="false" selection-start-line="561" selection-start-column="22" selection-end-line="561" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="20">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java">
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-728">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="126">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1990,8 +1987,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="136" column="30" lean-forward="false" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+        <state relative-caret-position="-360">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="98" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="26" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
