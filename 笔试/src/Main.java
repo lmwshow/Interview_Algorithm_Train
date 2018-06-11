@@ -1,40 +1,49 @@
-import java.util.Scanner;
+import java.awt.Image;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.lang.reflect.Field;
+import java.math.BigInteger;
+import java.text.DecimalFormat;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
-/**
- * @Auther: minGW
- * @Date: 2018/6/2 10:25
- * @Description:
- */
+import javax.crypto.spec.IvParameterSpec;
+
+import java.util.*;
 public class Main {
 
-    static int max ;
+    public static void main(String[] args) throws
+            SecurityException, IllegalArgumentException, IOException {
 
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int[] nums = new int[n];
-        for(int i=0;i<n;i++) nums[i] = sc.nextInt();
-        int max = Integer.MIN_VALUE,temp = max,zero = 0;
-        int head = 0,tail = 0;
-        while(tail<n) {
-            if(temp<0) {
-                temp = Math.max(temp, nums[tail]);
-                if(temp>=0) head = tail;
-            }else {
-                temp += nums[tail];
-            }
-            max = Math.max(max, temp);
-            if(nums[tail]==0&&zero++==3) {
-                while(head<tail) {
-                    temp -= nums[head];
-                    if(nums[head++]==0) {
-                        zero --;
-                        break;
-                    }
-                }
-            }
-            tail++;
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        String[] parts = in.readLine().split(" ");
+        int n = Integer.parseInt(parts[0]);
+        int m = Integer.parseInt(parts[1]);
+        double total1 = 0;
+        int sum = 0;
+
+        for(int i = 0;i<n;i++){
+            parts = in.readLine().split(" ");
+            int p = Integer.parseInt(parts[0]);
+            int d = Integer.parseInt(parts[1]);
+            sum+= p;
+            if(d == 1) total1 += p *0.8;
+            else total1 += p;
         }
-        System.out.println(max);
+        double min = total1;
+        for(int i = 0;i<m;i++){
+            parts = in.readLine().split(" ");
+            int full = Integer.parseInt(parts[0]);
+            int minus = Integer.parseInt(parts[1]);
+            if(sum >= full && sum - minus < min){
+                min = sum - minus;
+            }
+        }
+        DecimalFormat df = new DecimalFormat("#.00");
+        System.out.println(df.format(min));
+
+        System.out.printf("%.2f",min);
+
     }
 }
