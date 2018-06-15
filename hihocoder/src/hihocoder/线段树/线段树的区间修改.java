@@ -85,7 +85,10 @@ public class 线段树的区间修改 {
             sum[index] = value*(r-l+1);
             return;
         }
+        //如果是叶子节点，那么上面的操作已经更新完毕
         if (tree[index].left == tree[index].right) return;
+
+        //此时说明需要更新下层，那么PushDown 延迟更新下层
         PushDown(index,tree[index].right - tree[index].left + 1);
 
         int mid = ((tree[index].right - tree[index].left)>>1)+tree[index].left;
