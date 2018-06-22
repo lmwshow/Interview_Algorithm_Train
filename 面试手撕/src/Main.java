@@ -19,7 +19,7 @@ public class Main {
     }
 
     private static void unsafeAdd(List<?> strings, Object o) {
-        strings.add(o);
+
     }
 
 }

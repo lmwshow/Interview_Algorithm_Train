@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路一.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路三_有向图的欧拉回路.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路二_无向图的欧拉回路.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/填数字.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/托米历险记.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/深信服6_21/Test.java" />
@@ -14,6 +11,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/深信服6_21/网站开业.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/面试手撕/src/Main.java" afterPath="$PROJECT_DIR$/面试手撕/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="抓兔子游戏.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="抓兔子游戏.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -66,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C_剪花布条.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/C_剪花布条.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="417">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -204,7 +202,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java" />
         <option value="$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java" />
-        <option value="$PROJECT_DIR$/面试手撕/src/Main.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java" />
@@ -234,6 +231,7 @@
         <option value="$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java" />
         <option value="$PROJECT_DIR$/笔试/src/深信服6_21/Test.java" />
         <option value="$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java" />
+        <option value="$PROJECT_DIR$/面试手撕/src/Main.java" />
       </list>
     </option>
   </component>
@@ -291,30 +289,23 @@
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="专题16_KMP_扩展KMP_Manacher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -1096,7 +1087,7 @@
       <workItem from="1527906300993" duration="3352000" />
       <workItem from="1528157782370" duration="10646000" />
       <workItem from="1528245975527" duration="19364000" />
-      <workItem from="1528332215987" duration="107676000" />
+      <workItem from="1528332215987" duration="107744000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -1364,14 +1355,22 @@
       <option name="project" value="LOCAL" />
       <updated>1529463237195</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2018/6/21_hihocoder_赛题整理图论类_day2_欧拉图">
+      <created>1529628448459</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1529628448459</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368614000" />
+    <option name="totallyTimeSpent" value="368682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="382" y="68" width="1452" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1386,7 +1385,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15876436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15876436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1466,7 +1465,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2018/5/9_offer2_day2" />
     <MESSAGE value="2018/5/9_offer2_day3" />
     <MESSAGE value="2018/5/11_offer2_day4" />
     <MESSAGE value="2018/5/12_offer2_day5" />
@@ -1491,7 +1489,8 @@
     <MESSAGE value="2018/6/14_newcoder6_14" />
     <MESSAGE value="2018/6/15_hihocoder_赛题整理线段树类_day3_线段树区间修改综合(Lazy更新)" />
     <MESSAGE value="2018/6/20_hihocoder_赛题整理图论类_day1_拓扑排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/6/20_hihocoder_赛题整理图论类_day1_拓扑排序" />
+    <MESSAGE value="2018/6/21_hihocoder_赛题整理图论类_day2_欧拉图" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/6/21_hihocoder_赛题整理图论类_day2_欧拉图" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2133,14 +2132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笔试/src/托米历险记.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -2351,6 +2342,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
