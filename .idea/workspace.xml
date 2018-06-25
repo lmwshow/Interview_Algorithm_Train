@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点minGW.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +21,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="数组排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/数组排序.java">
+      <file leaf-file-name="数据流中的中位数.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="255">
+              <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="方向.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/方向.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="被遗忘的整数.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/被遗忘的整数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="抓兔子游戏.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java">
+      <file leaf-file-name="命名.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/命名.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="675">
+              <caret line="45" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,27 +65,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="连通性一_割边与割点.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="洗牌.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/洗牌.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="密码更改.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="连通性一_割边与割点.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="716">
-              <caret line="168" column="9" lean-forward="true" selection-start-line="168" selection-start-column="9" selection-end-line="168" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2253#2254#0" expanded="true" />
-                <element signature="e#2292#2293#0" expanded="true" />
-                <element signature="e#2337#2338#0" expanded="true" />
-                <element signature="e#2382#2383#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            <state relative-caret-position="-247">
+              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,57 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Set.java">
+      <file leaf-file-name="连通性一_割边与割点minGW.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点minGW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="224" column="14" lean-forward="false" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="拓扑排序一.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序一.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1754#1755#0" expanded="true" />
-                <element signature="e#1793#1794#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
-                <element signature="e#1882#1883#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="D_Cyclic_Nacklace_最小循环节.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/D_Cyclic_Nacklace_最小循环节.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="重复串查找.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-244">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="283">
+              <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,15 +113,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/Test.java">
+      <file leaf-file-name="洗牌.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/笔试/src/真题/洗牌.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#409#427#0" expanded="true" />
-                <element signature="e#478#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="金额组合.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/金额组合.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="47" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,15 +153,10 @@
       <find>hashcode</find>
       <find>]</find>
       <find>&quot;</find>
-      <find>jian</find>
-      <find>ll</find>
     </findStrings>
     <replaceStrings>
       <replace>}</replace>
       <replace>'</replace>
-      <replace>,</replace>
-      <replace>minus</replace>
-      <replace>long</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -183,57 +170,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/矩阵中的路径.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer/题12_机器人的运动范围.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/offer2/机器人的运动范围.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/hihocoder/DP练习/数字三角形.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/hihocoder/DP练习/经典01背包.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/hihocoder/DP练习/完全背包.java" />
-        <option value="$PROJECT_DIR$/newcoder/src/hihocoder/readme.md" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/状态压缩.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/状态压缩2.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/状态压缩2题解.md" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/骨牌覆盖问题一.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/骨牌覆盖问题二.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/骨牌覆盖问题三.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树/后序遍历.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/tets.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/合并两个排序的链表.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/树的子结构.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/顺时针打印矩阵.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/栈的压入弹出序列.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/从上往下打印二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/again/二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/复杂链表的复制.java" />
         <option value="$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java" />
-        <option value="$PROJECT_DIR$/笔试/src/Main.java" />
-        <option value="$PROJECT_DIR$/笔试/src/newcoder6_8/走格子.java" />
-        <option value="$PROJECT_DIR$/笔试/src/newcoder6_8/求值2.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临_线段树.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java" />
-        <option value="$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛与妞妞.java" />
-        <option value="$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛数星星.java" />
-        <option value="$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛游玩记.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/线段树的区间修改.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/更为复杂的买卖房屋姿势.java" />
-        <option value="$PROJECT_DIR$/笔试/src/托米历险记.java" />
-        <option value="$PROJECT_DIR$/笔试/src/填数字.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序一.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路二.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路一.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路二_无向图的欧拉回路.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路三_有向图的欧拉回路.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/网站开业.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/数组排序.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/一百分.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/Test.java" />
-        <option value="$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java" />
-        <option value="$PROJECT_DIR$/面试手撕/src/Main.java" />
-        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/Main.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/第一个只出现一次的字符.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数组中的逆序对.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/两个链表的第一个公共结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数字在排序数组中出现的次数.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉树的深度.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/和为S的连续正数序列.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/和为S的两个数字.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/左旋转字符串.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数组中只出现一次的数字.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/翻转单词顺序列.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/扑克牌顺子.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/孩子们的游戏_圆圈中最后剩下的数.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/求1到n的和.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/不用加减乘除做加法.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/把字符串转换成整数.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数组中重复的数字.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/构建乘积数组.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/正则表达式匹配.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/表示数值的字符串.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/字符流中第一个不重复的字符.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/链表中环的入口结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/删除链表中重复的结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉树的下一个结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉树的镜像.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/对称的二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/按之字形顺序打印二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/把二叉树打印成多行.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java" />
+        <option value="$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/方向.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/被遗忘的整数.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/金额组合.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/命名.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/洗牌.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java" />
         <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java" />
+        <option value="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点minGW.java" />
       </list>
     </option>
   </component>
@@ -243,11 +230,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="17" />
-    <option name="width" value="1597" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -267,74 +253,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hihocoder" type="462c0819:PsiDirectoryNode" />
               <item name="图论" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interview_algorithm_Train" type="462c0819:PsiDirectoryNode" />
               <item name="笔试" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="面试手撕" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,13 +314,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/IdeaProjects/minGW" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.19911894" />
-    <property name="SearchEverywhereHistoryKey" value="层次&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question102_二叉树的层次遍历&#10;最近&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question236_二叉树的最近公共祖先&#10;路径&#9;FILE&#9;file://E:/Interview_Algorithm_Train/leetcode/src/Top_Interview_Questions_2/again/Question124_二叉树中的最大路径和.java&#10;前序&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question105_从前序与中序遍历序列构造二叉树&#10;滑动&#9;PSI&#9;JAVA://Top_Interview_Questions_2.滑动窗口类似求最值系列.Question239_滑动窗口最大值&#10;中序&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question105_从前序与中序遍历序列构造二叉树&#10;偏移&#9;null&#9;null&#10;卡塔兰数&#9;null&#9;null&#10;Cata&#9;PSI&#9;JAVA://offer2.栈的压入弹出序列#CatalanNumber&#10;tou&#9;PSI&#9;JAVA://com.sun.glass.ui.TouchInputSupport#touch&#10;isSubtree&#9;PSI&#9;JAVA://Top_Interview_Questions.Subtree_of_Another_Tree#isSubtree&#10;Queue&#9;PSI&#9;JAVA://Top_Interview_Questions.again.Queue_Reconstruction_by_Height&#10;Count of Smaller Numbers After Self&#9;PSI&#9;JAVA://Top_Interview_Questions.Count_of_Smaller_Numbers_After_Self" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Interview_Algorithm_Train/newcoder/src/offer/again/题20_表示数值的字符串.java&#10;中序&#9;PSI&#9;JAVA://Top_Interview_Questions_2.树.Question105_从前序与中序遍历序列构造二叉树&#10;偏移&#9;null&#9;null&#10;卡塔兰数&#9;null&#9;null&#10;Cata&#9;PSI&#9;JAVA://offer2.栈的压入弹出序列#CatalanNumber&#10;tou&#9;PSI&#9;JAVA://com.sun.glass.ui.TouchInputSupport#touch&#10;isSubtree&#9;PSI&#9;JAVA://Top_Interview_Questions.Subtree_of_Another_Tree#isSubtree&#10;Queue&#9;PSI&#9;JAVA://Top_Interview_Questions.again.Queue_Reconstruction_by_Height&#10;Count of Smaller Numbers After Self&#9;PSI&#9;JAVA://Top_Interview_Questions.Count_of_Smaller_Numbers_After_Self" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Interview_Algorithm_Train" />
       <recent name="E:\Interview_Algorithm_Train\newcoder\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -360,11 +329,11 @@
       <recent name="Top_Interview_Questions_2.树" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Interview_Algorithm_Train\hihocoder\src" />
       <recent name="E:\Interview_Algorithm_Train\笔试\src" />
       <recent name="E:\Interview_Algorithm_Train\newcoder\src\offer2" />
       <recent name="$PROJECT_DIR$/newcoder/src" />
       <recent name="$PROJECT_DIR$/leetcode/src" />
+      <recent name="$PROJECT_DIR$/src/hihocoder" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -382,6 +351,8 @@
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/面试手撕/src/Main.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -389,12 +360,31 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/方向.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/被遗忘的整数.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/金额组合.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/命名.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/洗牌.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序一.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路一.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路三_有向图的欧拉回路.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路二_无向图的欧拉回路.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临_线段树.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/更为复杂的买卖房屋姿势.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/线段树的区间修改.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛与妞妞.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛数星星.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛游玩记.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/newcoder6_8/求值2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/newcoder6_8/走格子.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/填数字.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/托米历险记.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/Test.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/一百分.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/数组排序.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/网站开业.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -495,78 +485,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.连通性一_割边与割点minGW">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="抓兔子游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="金额组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="深信服6_21.*" />
+          <option name="PATTERN" value="hihocoder.编程练习赛62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="深信服6_21.抓兔子游戏" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="笔试" />
-      <envs />
-    </configuration>
-    <configuration name="重复串查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="深信服6_21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深信服6_21.重复串查找" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="笔试" />
-      <envs />
-    </configuration>
-    <configuration name="D_Cyclic_Nacklace_最小循环节" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="专题16_KMP_扩展KMP_Manacher.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="专题16_KMP_扩展KMP_Manacher.D_Cyclic_Nacklace_最小循环节" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.图论.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.图论.Main" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛62.金额组合" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -576,44 +509,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="hihocoder" />
-      <envs />
-    </configuration>
-    <configuration name="正则表达式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.正则表达式匹配" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="数组中只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.数组中只出现一次的数字" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
       <envs />
     </configuration>
     <configuration name="删除链表中重复的结点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -624,82 +519,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="offer2.删除链表中重复的结点" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="数字三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.数字三角形" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="骨牌覆盖问题一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题一" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="hihocoder" />
-      <envs />
-    </configuration>
-    <configuration name="完全背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.完全背包" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.复杂链表的复制" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -730,14 +549,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="复杂链表的复制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="offer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="offer2.滑动窗口的最大值" />
+      <option name="MAIN_CLASS_NAME" value="offer2.复杂链表的复制" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -747,44 +566,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="newcoder" />
-      <envs />
-    </configuration>
-    <configuration name="骨牌覆盖问题二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="hihocoder.DP练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.DP练习.骨牌覆盖问题二" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="hihocoder" />
-      <envs />
-    </configuration>
-    <configuration name="走格子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="newcoder6_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="newcoder6_8.走格子" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="笔试" />
       <envs />
     </configuration>
     <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -844,14 +625,71 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="密码更改" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hihocoder.树练习.*" />
+          <option name="PATTERN" value="hihocoder.编程练习赛63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.树练习.后序遍历" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛63.密码更改" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hihocoder" />
+      <envs />
+    </configuration>
+    <configuration name="被遗忘的整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.编程练习赛62.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛62.被遗忘的整数" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hihocoder" />
+      <envs />
+    </configuration>
+    <configuration name="命名" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.编程练习赛63.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛63.命名" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hihocoder" />
+      <envs />
+    </configuration>
+    <configuration name="洗牌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hihocoder.编程练习赛63.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hihocoder.编程练习赛63.洗牌" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -939,6 +777,25 @@
       <module name="newcoder" />
       <envs />
     </configuration>
+    <configuration name="正则表达式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.正则表达式匹配" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
     <configuration name="数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -958,14 +815,33 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="连通性一_割边与割点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="数组中只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="offer2.数组中只出现一次的数字" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="连通性一_割边与割点minGW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="hihocoder.图论.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="hihocoder.图论.连通性一_割边与割点" />
+      <option name="MAIN_CLASS_NAME" value="hihocoder.图论.连通性一_割边与割点minGW" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1051,20 +927,14 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.D_Cyclic_Nacklace_最小循环节" />
-      <item index="1" class="java.lang.String" itemvalue="Application.重复串查找" />
-      <item index="2" class="java.lang.String" itemvalue="Application.抓兔子游戏" />
-      <item index="3" class="java.lang.String" itemvalue="Application.连通性一_割边与割点" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.金额组合" />
+      <item index="1" class="java.lang.String" itemvalue="Application.连通性一_割边与割点minGW" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.连通性一_割边与割点" />
-        <item index="2" class="java.lang.String" itemvalue="Application.抓兔子游戏" />
-        <item index="3" class="java.lang.String" itemvalue="Application.重复串查找" />
-        <item index="4" class="java.lang.String" itemvalue="Application.D_Cyclic_Nacklace_最小循环节" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.连通性一_割边与割点minGW" />
+        <item index="1" class="java.lang.String" itemvalue="Application.金额组合" />
       </list>
     </recent_temporary>
   </component>
@@ -1096,21 +966,11 @@
       <workItem from="1526626651635" duration="616000" />
       <workItem from="1526692503484" duration="24983000" />
       <workItem from="1526910587743" duration="2803000" />
-      <workItem from="1526945644193" duration="14813000" />
-      <workItem from="1527120758356" duration="5639000" />
-      <workItem from="1527126487299" duration="164000" />
-      <workItem from="1527126677673" duration="7000" />
-      <workItem from="1527126711806" duration="274000" />
-      <workItem from="1527127054084" duration="622000" />
-      <workItem from="1527594502323" duration="4404000" />
-      <workItem from="1527641045914" duration="6052000" />
-      <workItem from="1527723545932" duration="5850000" />
-      <workItem from="1527739078390" duration="3235000" />
-      <workItem from="1527811366220" duration="5947000" />
-      <workItem from="1527906300993" duration="3352000" />
-      <workItem from="1528157782370" duration="10646000" />
-      <workItem from="1528245975527" duration="19364000" />
-      <workItem from="1528332215987" duration="115671000" />
+      <workItem from="1526945644193" duration="9638000" />
+      <workItem from="1527084681253" duration="1030000" />
+      <workItem from="1527126758340" duration="47000" />
+      <workItem from="1527998204178" duration="13004000" />
+      <workItem from="1529664767358" duration="3783000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -1273,193 +1133,95 @@
       <option name="project" value="LOCAL" />
       <updated>1526951854001</updated>
     </task>
-    <task id="LOCAL-00024" summary="2018/5/23_offer2_day13">
-      <created>1527036409415</created>
+    <task id="LOCAL-00024" summary="2018/5/22_newcoder_5">
+      <created>1527085105891</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1527036409415</updated>
+      <updated>1527085105891</updated>
     </task>
-    <task id="LOCAL-00025" summary="2018/5/23_newcoder_5_Dijkstra">
-      <created>1527120584052</created>
+    <task id="LOCAL-00025" summary="2018/5/22_newcoder_5">
+      <created>1527085111830</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1527120584052</updated>
+      <updated>1527085111830</updated>
     </task>
-    <task id="LOCAL-00026" summary="2018/5/24_offer2_day15_over">
-      <created>1527126139615</created>
+    <task id="LOCAL-00026" summary="2018/6/10_hihocoder">
+      <created>1528679047053</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1527126139615</updated>
+      <updated>1528679047053</updated>
     </task>
-    <task id="LOCAL-00027" summary="2018/5/29_hihocoder_赛题整理DP类_day1">
-      <created>1527599328373</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1527599328373</updated>
-    </task>
-    <task id="LOCAL-00028" summary="2018/5/29_hihocoder_赛题整理DP类_day2">
-      <created>1527649200511</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1527649200511</updated>
-    </task>
-    <task id="LOCAL-00029" summary="2018/5/29_hihocoder_赛题整理DP类_day3">
-      <created>1527748703984</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1527748703986</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2018/6/4_hihocoder_赛题整理DP类_day4">
-      <created>1528094311638</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1528094311639</updated>
-    </task>
-    <task id="LOCAL-00031" summary="2018/6/4_hihocoder_赛题整理树类_day1">
-      <created>1528167358447</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1528167358447</updated>
-    </task>
-    <task id="LOCAL-00032" summary="2018/6/4_hihocoder_赛题整理树类_day2">
-      <created>1528267316101</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1528267316102</updated>
-    </task>
-    <task id="LOCAL-00033" summary="2018/6/8_hihocoder_赛题整理树类_day4_LCA&amp;RMQ">
-      <created>1528424970156</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1528424970157</updated>
-    </task>
-    <task id="LOCAL-00034" summary="2018/6/11_hihocoder_赛题整理线段树类_day1">
-      <created>1528687773796</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1528687773796</updated>
-    </task>
-    <task id="LOCAL-00035" summary="2018/6/11_hihocoder_赛题整理线段树类_day2_线段树区间修改(Lazy更新)">
-      <created>1528774588988</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1528774588988</updated>
-    </task>
-    <task id="LOCAL-00036" summary="2018/6/14_newcoder6_14">
-      <created>1529035666038</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1529035666038</updated>
-    </task>
-    <task id="LOCAL-00037" summary="2018/6/15_hihocoder_赛题整理线段树类_day3_线段树区间修改综合(Lazy更新)">
-      <created>1529035713779</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1529035713779</updated>
-    </task>
-    <task id="LOCAL-00038" summary="2018/6/20_hihocoder_赛题整理图论类_day1_拓扑排序">
-      <created>1529463237195</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1529463237195</updated>
-    </task>
-    <task id="LOCAL-00039" summary="2018/6/21_hihocoder_赛题整理图论类_day2_欧拉图">
-      <created>1529628448459</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1529628448459</updated>
-    </task>
-    <task id="LOCAL-00040" summary="2018/6/21_深信服秋招">
-      <created>1529628506366</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1529628506366</updated>
-    </task>
-    <option name="localTasksCounter" value="41" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376609000" />
+    <option name="totallyTimeSpent" value="208071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="25" width="1440" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32561308" sideWeight="0.4696162" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23618636" sideWeight="0.56396586" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23618636" sideWeight="0.4360341" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24593717" sideWeight="0.53411514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27272728" sideWeight="0.46588486" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264463" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117803834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21173105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3719346" sideWeight="0.40458423" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37484884" sideWeight="0.47867805" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23618636" sideWeight="0.56396586" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593717" sideWeight="0.53411514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3719346" sideWeight="0.40458423" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.47867805" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32561308" sideWeight="0.4696162" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4914712" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29700273" sideWeight="0.4360341" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23635058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24593717" sideWeight="0.46588486" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1495,6 +1257,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="301删除最小数目的无效括号 DFS BFS" />
+    <MESSAGE value="网易面试手撕题" />
+    <MESSAGE value="dp问题_戳气球" />
+    <MESSAGE value="打家劫舍3" />
+    <MESSAGE value="2018/4/25" />
+    <MESSAGE value="2018/4/27" />
+    <MESSAGE value="2018/4/28" />
+    <MESSAGE value="2018/5/3_top_interview_questions_2/Over" />
+    <MESSAGE value="2018/5/8_offer2_begin" />
+    <MESSAGE value="2018/5/9_offer2_day2" />
+    <MESSAGE value="2018/5/9_offer2_day3" />
     <MESSAGE value="2018/5/11_offer2_day4" />
     <MESSAGE value="2018/5/12_offer2_day5" />
     <MESSAGE value="2018/5/17_offer2_day8" />
@@ -1502,25 +1275,9 @@
     <MESSAGE value="2018/5/19_offer2_day10" />
     <MESSAGE value="2018/5/21_offer2_day11" />
     <MESSAGE value="2018/5/22_offer2_day12" />
-    <MESSAGE value="2018/5/23_offer2_day13" />
-    <MESSAGE value="2018/5/23_newcoder_5_Dijkstra" />
-    <MESSAGE value="2018/5/24_offer2_day15_over" />
-    <MESSAGE value="2018/5/29_hihocoder_赛题整理DP类_day1" />
-    <MESSAGE value="2018/5/29_hihocoder_赛题整理DP类_day2" />
-    <MESSAGE value="2018/5/29_hihocoder_赛题整理DP类_day3" />
-    <MESSAGE value="2018/6/4_hihocoder_赛题整理DP类_day4" />
-    <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day1" />
-    <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day2" />
-    <MESSAGE value="2018/6/4_hihocoder_赛题整理树类_day3_LCA&amp;RMQ" />
-    <MESSAGE value="2018/6/8_hihocoder_赛题整理树类_day4_LCA&amp;RMQ" />
-    <MESSAGE value="2018/6/11_hihocoder_赛题整理线段树类_day1" />
-    <MESSAGE value="2018/6/11_hihocoder_赛题整理线段树类_day2_线段树区间修改(Lazy更新)" />
-    <MESSAGE value="2018/6/14_newcoder6_14" />
-    <MESSAGE value="2018/6/15_hihocoder_赛题整理线段树类_day3_线段树区间修改综合(Lazy更新)" />
-    <MESSAGE value="2018/6/20_hihocoder_赛题整理图论类_day1_拓扑排序" />
-    <MESSAGE value="2018/6/21_hihocoder_赛题整理图论类_day2_欧拉图" />
-    <MESSAGE value="2018/6/21_深信服秋招" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/6/21_深信服秋招" />
+    <MESSAGE value="2018/5/22_newcoder_5" />
+    <MESSAGE value="2018/6/10_hihocoder" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/6/10_hihocoder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1735,644 +1492,400 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/newcoder2018_5/Dijkstra.java</url>
-          <line>81</line>
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/被遗忘的整数.java</url>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/newcoder/src/offer2/滑动窗口的最大值.java</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/命名.java</url>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/newcoder/src/offer2/矩阵中的路径.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/洗牌.java</url>
+          <line>31</line>
           <properties />
-          <option name="timeStamp" value="55" />
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/newcoder/src/hihocoder/DP练习/经典01背包.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/DP练习/骨牌覆盖问题二.java</url>
-          <line>131</line>
-          <properties />
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/Main.java</url>
-          <line>33</line>
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java</url>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java</url>
-          <line>69</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
-          <line>74</line>
-          <properties />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java</url>
-          <line>148</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临_线段树.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临_线段树.java</url>
-          <line>95</line>
-          <properties />
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/线段树的区间修改.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java</url>
-          <line>72</line>
-          <properties />
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java</url>
-          <line>86</line>
-          <properties />
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java</url>
+          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java</url>
           <line>75</line>
           <properties />
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛与妞妞.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛数星星.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛游玩记.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/更为复杂的买卖房屋姿势.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/填数字.java</url>
-          <line>107</line>
-          <properties />
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序一.java</url>
-          <line>96</line>
-          <properties />
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java</url>
-          <line>108</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java</url>
-          <line>107</line>
-          <properties />
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java</url>
-          <line>112</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/笔试/src/深信服6_21/数组排序.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="90" />
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="91" />
+      <option name="time" value="62" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/后序遍历.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试手撕/src/网易实习面试4_17/SingleTon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1420">
-          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="e#1383#1384#0" expanded="false" />
-            <element signature="e#1427#1428#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/again/Question124_二叉树中的最大路径和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/树中最长路.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="561" column="22" lean-forward="false" selection-start-line="561" selection-start-column="22" selection-end-line="561" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/刷油漆_树形DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="107" column="5" lean-forward="false" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/LCA在线算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="26" column="98" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="26" selection-end-column="98" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="45" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder6_8/走格子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder6_8/求值2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/RMQ问题再临_线段树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1580">
-          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/RMQ_ST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/Top_Interview_Questions_2/树/Question102_二叉树的层次遍历.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="673" column="0" lean-forward="false" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/网易3_27/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛游玩记.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉树的深度.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛数星星.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/平衡二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder6_14/牛牛与妞妞.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/左旋转字符串.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/离散化.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/线段树的区间修改.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="91" column="63" lean-forward="false" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/线段树/更为复杂的买卖房屋姿势.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="147" column="37" lean-forward="false" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/托米历险记.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="35" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/填数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1474">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="656" column="0" lean-forward="false" selection-start-line="656" selection-start-column="0" selection-end-line="656" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序二.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2004#2005#0" expanded="true" />
-            <element signature="e#2043#2044#0" expanded="true" />
-            <element signature="e#2087#2088#0" expanded="true" />
-            <element signature="e#2132#2133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/树练习/无间道之并查集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路一.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="68" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路二_无向图的欧拉回路.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="43" column="78" lean-forward="false" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/欧拉路三_有向图的欧拉回路.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/和为S的两个数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/newcoder2018_5/Dijkstra.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/和为S的连续正数序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="57" column="23" lean-forward="false" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="43" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/A_Number_Sequence.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题56_数组中只出现一次的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/B_Oulipo.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数组中只出现一次的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/C_剪花布条.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/F_The_Minimum_Length.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/E_Period.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/网站开业.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#625#634#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/一百分.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/D_Cyclic_Nacklace_最小循环节.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/重复串查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="470">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/数组排序.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题58_翻转单词顺序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试手撕/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/翻转单词顺序列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="33" column="30" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/扑克牌顺子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题64_求1到n的和_限制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/求1到n的和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/孩子们的游戏_圆圈中最后剩下的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题65_不用加减乘除做加法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/不用加减乘除做加法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/把字符串转换成整数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="46" lean-forward="false" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数组中重复的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/构建乘积数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/正则表达式匹配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="85" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/Test.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题19_正则表达式匹配.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="780">
+          <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题20_表示数值的字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/again/题20_表示数值的字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/表示数值的字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="56" column="31" lean-forward="false" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/字符流中第一个不重复的字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#409#427#0" expanded="true" />
-            <element signature="e#478#487#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔试/src/深信服6_21/抓兔子游戏.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题23_链表中环的入口结点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="40" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/拓扑排序一.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/链表中环的入口结点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1754#1755#0" expanded="true" />
-            <element signature="e#1793#1794#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1882#1883#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Set.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/util/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="224" column="14" lean-forward="false" selection-start-line="224" selection-start-column="14" selection-end-line="224" selection-end-column="14" />
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题18_删除链表中重复的结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/删除链表中重复的结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/Main.java">
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/util/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉树的下一个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/对称的二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/按之字形顺序打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/把二叉树打印成多行.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer/题37_序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="15" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/二叉搜索树的第k个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/src/offer2/数据流中的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/方向.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/金额组合.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="47" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛62/被遗忘的整数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/命名.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔试/src/真题/洗牌.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/洗牌.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/编程练习赛63/密码更改.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2381,14 +1894,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="168" column="9" lean-forward="true" selection-start-line="168" selection-start-column="9" selection-end-line="168" selection-end-column="9" />
+        <state relative-caret-position="-247">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2253#2254#0" expanded="true" />
-            <element signature="e#2292#2293#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-            <element signature="e#2382#2383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性一_割边与割点minGW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2445,7 +1964,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>笔试</last-edited>
+          <last-edited>leetcode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2469,6 +1988,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
