@@ -165,6 +165,7 @@ public class 连通性一_割边与割点minGW {
 
     private static void tarjan(int u) {
 
+        //记录dfs遍历次序
         dfn[u] = low[u] = ++ counter;
         int children = 0;       //计算u的儿子节点个数
         visit[u] = 1;

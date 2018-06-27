@@ -12,7 +12,7 @@ import java.text.DecimalFormat;
  * @Date: 2018/6/14 19:31
  * @Description: 30%
  */
-public class 牛牛与妞妞 {
+public class 牛牛与妞妞_赢牌概率 {
 
     static int[] retain = new int[14];
     static double sum = 46*45;
@@ -20,7 +20,6 @@ public class 牛牛与妞妞 {
 
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.println(sum * 0.3905);
         for (int i = 1 ; i <= 13 ; i++)
             retain[i] = 4;
         String[] parts = in.readLine().split(" ");
@@ -42,33 +41,34 @@ public class 牛牛与妞妞 {
 
         int diff = x - y;
 
-        int count = 0;
+        double count = 0;
+        double all = 0;
 
         for (int i = 1 ; i <= 13 ; i++)
         {
             if (retain[i] == 0)
                 continue;
-
-            int base = retain[i]--;
-            int tmp = 0;
-            for (int j = 1 ; j <= 13 ; j++) {
-                if (retain[j] == 0)
-                    continue;
-                if (diff + i - j <= 0)
-                    break;
-                if (diff + i - j > 0)
-                    tmp += base * retain[j];
-
+            else {
+                retain[i] -- ;
+                for (int j = 1; j <= 13 ; j++)
+                {
+                    if (retain[j] == 0)
+                        continue;
+                    else
+                    {
+                        all++;
+                        if (diff+i > j)
+                            count++;
+                    }
+                }
+                retain[i]++ ;               //不选的话，需要加回来
             }
-            count+=tmp;
-            retain[i]++;
         }
 
-        double ans = count/sum;
 
+        double ans = count/all;
 
-        DecimalFormat df = new DecimalFormat("0.0000");
-        System.out.println(df.format(ans));
+        System.out.println(ans);
 
     }
 }

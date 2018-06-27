@@ -75,7 +75,7 @@ public class 牛牛游玩记 {
                     int nexty = tmp.y + dir[j][1];
 
                     if ((nextx >= 0 && nextx < n) && (nexty >= 0 && nexty < n) && !visit[nextx][nexty] && map[nextx][nexty] != '#') {
-                        visit[tmp.x][tmp.y] = true;
+                        visit[nextx][nexty] = true;
                         queue.add(new Point(nextx,nexty));
                         if (map[nextx][nexty] == '@')
                             flag = true;
