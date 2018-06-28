@@ -14,6 +14,9 @@ import java.util.Stack;
  *
  * 对于桥的两种情况，它分割个区域数刚好就等于割点数+1；
  * 而连通分量内的割点同样也是，每存在一个割点，点的双连通分量就增加一个。
+ *
+ *
+ * http://hihocoder.com/contest/hiho55/solution/454448
  */
 public class 连通性四_点的双连通分量 {
 
