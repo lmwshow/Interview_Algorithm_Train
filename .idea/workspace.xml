@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径一.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径三_SPFA算法.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径二_多源最短路径.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/专题16_KMP_扩展KMP_Manacher/KMP匹配子串.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性四_点的双连通分量.java" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/连通性四_点的双连通分量.java" />
+      <change beforePath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径三_SPFA算法.java" afterPath="$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径三_SPFA算法.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径三_SPFA算法.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#913#914#0" expanded="true" />
@@ -1096,7 +1092,7 @@
       <workItem from="1528157782370" duration="10646000" />
       <workItem from="1528245975527" duration="19364000" />
       <workItem from="1528332215987" duration="146728000" />
-      <workItem from="1530062375187" duration="19867000" />
+      <workItem from="1530062375187" duration="19890000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -1392,11 +1388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530071289614</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2018/6/28_hihocoder_赛题整理图论类_day5_最短路径">
+      <created>1530157670021</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1530157670021</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427533000" />
+    <option name="totallyTimeSpent" value="427556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -2375,7 +2378,7 @@
     <entry file="file://$PROJECT_DIR$/hihocoder/src/hihocoder/图论/最短路径三_SPFA算法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#913#914#0" expanded="true" />

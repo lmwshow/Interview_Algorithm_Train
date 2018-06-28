@@ -15,7 +15,7 @@ import java.util.Queue;
  *
  * SPFA算法的原理 其实是使用BFS  进行优化剪枝
  *
- * 针对于系数图， 点多，边少
+ * 针对于稀疏图， 点多，边少
  *
  */
 public class 最短路径三_SPFA算法 {
