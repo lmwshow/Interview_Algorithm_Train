@@ -1,14 +1,630 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/again/丑数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/again/把数字翻译成字符串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/newcoder/src/again/把数组排成最小的数.java" />
+    <list default="true" id="9be78a62-3276-451c-ab47-027d18e81b83" name="Default" comment="2018/7/25">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/完全背包.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/数字三角形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/状态压缩.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/状态压缩2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/状态压缩2题解.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/经典01背包.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/骨牌覆盖问题一.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/骨牌覆盖问题三.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/DP练习/骨牌覆盖问题二.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/util/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/util/RandomListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/util/TreeLinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/util/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序一$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序一$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序一$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序一.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序二$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序二$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序二$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/拓扑排序二.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径一$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径一$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径一$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径一.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径三_SPFA算法$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径三_SPFA算法$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径三_SPFA算法$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径三_SPFA算法.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/最短路径二_多源最短路径.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/欧拉路一.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/欧拉路三_有向图的欧拉回路.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/欧拉路二_无向图的欧拉回路.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点minGW$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点minGW$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点minGW$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性一_割边与割点minGW.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性三_强连通分量$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性三_强连通分量$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性三_强连通分量$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性三_强连通分量.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性二_边的双连通分量$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性二_边的双连通分量$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性二_边的双连通分量$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性二_边的双连通分量.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性四_点的双连通分量$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性四_点的双连通分量$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性四_点的双连通分量$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/图论/连通性四_点的双连通分量.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/LCA.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/LCA在线算法.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/RMQ_ST.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/刷油漆_树形DP.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/后序遍历$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/后序遍历.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/无间道之并查集.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/树练习/树中最长路.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/RMQ问题再临.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/RMQ问题再临_线段树$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/RMQ问题再临_线段树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/更为复杂的买卖房屋姿势$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/更为复杂的买卖房屋姿势.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/离散化.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/线段树的区间修改$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/线段树/线段树的区间修改.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛41/反转子串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛41/比赛日程安排.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛43/自底向上遍历二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛45/LR问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛45/互补二元组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛45/寻找切线.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛45/推断大小关系.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛47/删除树节点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛47/数组区间.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛48/假期计划.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛48/折线中点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛48/最小先序遍历.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛48/矩阵深度$Matrix.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛48/矩阵深度.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/bin矩阵迷宫.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/挑选子集.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/相似颜色.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/矩阵迷宫.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/矩阵迷宫2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/第k小先序遍历$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛49/第k小先序遍历.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛50/座位问题$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛50/座位问题$Space.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛50/座位问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛50/循环数组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/hiho字符串3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/最长一次上升子序列$InputReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/最长一次上升子序列$OutputWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/最长一次上升子序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/继承顺位$InputReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/继承顺位$King.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/继承顺位$OutputWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛53/继承顺位.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛54/回文字符串2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛54/小数数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛54/最小差值.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛57/Q1_1偏差排列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛57/Q2_递增N元组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛57/Q3_逃离迷宫5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛62/方向.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛62/被遗忘的整数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛62/金额组合.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛63/命名.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛63/密码更改.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/hihocoder/hihocoder/编程练习赛63/洗牌.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/MergeSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/NumArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Convert_BST_to_Greater_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Count_of_Smaller_Numbers_After_Self$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Count_of_Smaller_Numbers_After_Self$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Count_of_Smaller_Numbers_After_Self.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Counting_Bits.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Decode_String.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Diameter_of_Binary_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Find_All_Numbers_Disappeared_in_an_Array.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Friend_Circles.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Hamming_Distance.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Kth_Largest_Element_in_an_Array$mycompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Kth_Largest_Element_in_an_Array.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Majority_Element.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Merge_Two_Binary_Trees.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Move_Zeroes.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Palindromic_Substrings.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Product_of_Array_Except_Self.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Remove_Invalid_Parentheses.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Subtree_of_Another_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Sum_3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Task_Scheduler$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/Task_Scheduler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Find_the_Duplicate_Number.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/House_Robber_III.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Longest_Increasing_Subsequence$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Longest_Increasing_Subsequence.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Partition_Equal_Subset_Sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Path_Sum_III$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Path_Sum_III.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Queue_Reconstruction_by_Height$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Queue_Reconstruction_by_Height$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Queue_Reconstruction_by_Height.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Search_a_2D_Matrix_II.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Serialize_and_Deserialize_Binary_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Shortest_Unsorted_Continuous_Subarray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/Subarray_Sum_Equals_K.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/The_Skyline_Problem$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/The_Skyline_Problem$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/The_Skyline_Problem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/again/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/dp/Edit_Distance.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/dp/again/Burst_Balloons.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/dp/again/House_Robber.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/dp/again/Maximal_Square.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/leetcode1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/pow.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/sqrt_t.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/util/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/优先队列/Sliding_Window_Maximum$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/优先队列/Sliding_Window_Maximum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/优先队列/Top_K_Frequent_Elements$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/优先队列/Top_K_Frequent_Elements.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/图/Course_Schedule.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/字符串/滑动窗口/Minimum_Window_Substring.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/搜索/Number_of_Islands.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/Binary_Tree_Maximum_Path_Sum$Res.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/Binary_Tree_Maximum_Path_Sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/Flatten_Binary_Tree_to_Linked_List.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/Invert_Binary_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/Lowes_Common_Ancestor_of_a_Binary_Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/树/遍历/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Intersection_of_Two_Linked_Lists$ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Intersection_of_Two_Linked_Lists.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/LRUCache$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/LRUCache$LinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/LRUCache$LinkNodeList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/LRUCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/MinStack$LinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/MinStack$LinkNodeList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/MinStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Palindrome_Linked_List$ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Palindrome_Linked_List.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Reverse_Linked_List$ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions/链表/Reverse_Linked_List.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/DFS_BFS搜索/Question301_删除最小数目无效的括号.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/LRUCache$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/LRUCache$LinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/LRUCache$LinkNodeList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/LRUCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question10_Regular_Expression_Matching.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question11_Container_With_Most_Water.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question11_Integer_to_Roman.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question128_最长连续序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question12_Roman_to_Integer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question136_只出现一次的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question139_单词拆分.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question13_Longest_Common_Prefix.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question152_乘积最大子序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question15_3Sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question169_求数组中超过一半个数的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question17_Letter_Combinations_of_a_Phone_Number.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question19_Remove_Nth_Node_From_End_of_List.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question1_two_sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question20_Valid_Parentheses.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question215_数组中的第K个最大元素.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question218_天际线问题$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question218_天际线问题$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question218_天际线问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question21_Merge_Two_Sorted_Lists.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question221_最大正方形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question22_Generate_Parentheses.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question238_除自身以外数组的乘积.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question23_Merge_k_Sorted_Lists.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question240_搜索二维矩阵2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question283_移动零.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question287_寻找重复数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question2_add_two_numbers.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question300_最长上升子序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question31_Next_Permutation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question32_Longest_Valid_Parentheses.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question337_打家劫舍3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question338_Bit位计数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question33_Search_in_Rotated_Sorted_Array.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question347_前K个高频元素.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question34Search_for_a_Range.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question394_字符串解码.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question39_Combination_Sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question3_Longest_Substring_Without_Repeating_Characters.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question406_根据身高重建队列$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question406_根据身高重建队列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question42_Trapping_Rain_Water.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question437_路径总和III.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question438_找字符串中所有的同字异形字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question448_找到所有数组中消失的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question461_汉明距离.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question46_Permutations.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question48_Rotate_Image.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question494_目标和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question49_Group_Anagrams.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question538_把二叉搜索树转换为累加树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question53_Maximum_Subarray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question543_二叉树的直径.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question55_Jump_Game.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question560_和为K的子数组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question56_Merge_Intervals$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question56_Merge_Intervals.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question572_另一个树的子树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question581_最短无序连续子数组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question5_Longest_Palindromic_Substring.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question617_合并二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question621_任务调度器$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question621_任务调度器.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question62_Unique_Paths.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question647_回文子串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question64_Minimum_Path_Sum.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question6_ZigZag_Conversion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question70_Climbing_Stairs.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question72_Edit_Distance.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question75_Sort_Colors.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question76_Minimum_Window_Substring.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question78_Subsets.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question79_Word_Search.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question84_Largest_Rectangle_in_Histogram.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question85_Maximal_Rectangle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question8_String_to_Integer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/Question9_Palindrome_Number.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/LRUCache$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/LRUCache$LinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/LRUCache$LinkNodeList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/LRUCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question101_对称二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question105_从前序与中序遍历序列构造二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question114_二叉树转换链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question124_二叉树中的最大路径和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question128_最长连续序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question139_单词拆分.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question148_链表排序.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question15_三数之和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question218_天际线问题$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question218_天际线问题$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question218_天际线问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question221_最大正方形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question22_生成括号.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question236_二叉树的最近公共祖先.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question300_最长上升子序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question301_删除最小数目无效的括号.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question309_买卖股票带冷却期.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question312_戳气球.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question315_计算右侧小于当前元素的个数$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question315_计算右侧小于当前元素的个数$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question315_计算右侧小于当前元素的个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question34_搜索范围.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question406_根据身高重建队列$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question406_根据身高重建队列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question416_是否可以化为两个和相等的子集.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question42_接雨水.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question448_找到所有数组中消失的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question494_目标和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question4_两个排序数组的中位数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question53_最大子序和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question560_和为K的子数组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question5_最长回文子串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question621_任务调度器$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question621_任务调度器$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question621_任务调度器.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question72_编辑距离.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question78_子集.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question7_颠倒整数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question84_柱状图中最大的矩形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/again/Question85_最大矩形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question121_买卖股票的最佳时机.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question198_打家劫舍.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question279_完美平方数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question309_买卖股票带冷却期.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question312_戳气球.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question322_零钱兑换.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/dp/Question416_是否可以化为两个和相等的子集.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/util/Interval.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/util/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/util/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/优先队列/Question218_天际线问题$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/优先队列/Question218_天际线问题$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/优先队列/Question218_天际线问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/图论/Question200_连通图的个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/图论/Question207_是否存在合法拓扑关系.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/排序及应用/Question215_数组中的第K个最大元素.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question101_对称二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question102_二叉树的层次遍历.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question104_二叉树的最大深度.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question105_从前序与中序遍历序列构造二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question114_二叉树转换链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question124_二叉树中的最大路径和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question208_实现前缀树$TrieNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question208_实现前缀树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question226_翻转二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question236_二叉树的最近公共祖先.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question297_二叉树的序列化与反序列化.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question315_计算右侧小于当前元素的个数$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question315_计算右侧小于当前元素的个数$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question315_计算右侧小于当前元素的个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question337_打家劫舍3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question94_中序遍历二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question96_不同的二叉查找树个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/树/Question98_验证有效二叉搜索树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/滑动窗口类似求最值系列/Question155_最小栈.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/滑动窗口类似求最值系列/Question239_滑动窗口最大值.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question141_环形链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question142_环形链表II.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question148_链表排序.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question160_求两个链表的焦点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question206_反转链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Top_Interview_Questions_2/链表/Question234_回文链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dongtaiguihuaTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode216组合数之和3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode377组合数之和4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode39组合数之和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode40组合数2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode45JumpGame2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode46Permutations排列数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode47Permutations排列数2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode55JumpGame.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode77组合数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode78Subsets.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/dfs_backtracking查找/leetcode90Subsets2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode120.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode121.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode122.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode123.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode134_加油站.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode135_分糖果.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode139_拆词.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode140_拆词2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode152.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode17电话号组合.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode279.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode309.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode413.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode494_BestTimetoBuyandSellStock.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode53.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode62.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode63.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode64.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode70.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode95$TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode95.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/leetcode96.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode18.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode303.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode43大数相乘.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode84Largest_Rectangle_in_Histogram.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/maximal_rectangle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/test$1Inner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/test$2Inner.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Trie.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/TrieNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/全排列/全排列递归.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/全排列/全排列非递归.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/全排列/去重全排列递归.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/丑数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/打印从1到最大的n位数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/把数字翻译成字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/把数组排成最小的数$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/把数组排成最小的数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/整数中1出现的次数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/旋转数组的最小数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/正则表达式匹配.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/again/表示数值的字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/DP练习/完全背包.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/DP练习/数字三角形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/DP练习/经典01背包.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/编程练习赛57/Q1_1偏差排列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/编程练习赛57/Q2_递增N元组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/hihocoder/编程练习赛57/Q3_逃离迷宫5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/不用加减乘除做加法.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/丑数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/二叉搜索树的后序遍历序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/二叉树中和为某一值的路径.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/从1到n整数中1出现的次数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/和为S的两个数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/把数组排成最小的数$MyCompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/把数组排成最小的数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/数值的整数次方.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/数字在排序数组中出现的次数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/数组中只出现一次的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/数组中的逆序对.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/数组中重复的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/旋转数组的最小数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/栈的压入弹出序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/正则表达式匹配.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/求1到n的和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/again/表示数值的字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/util/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/util/RandomListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/util/TreeLinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/util/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/不用加减乘除做加法.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/丑数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/两个链表的第一个公共结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉搜索树与双向链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉搜索树的后序遍历序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉搜索树的第k个结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉树中和为某一值的路径.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉树的下一个结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉树的深度.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二叉树的镜像.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二维数组中的查找.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/二进制中1的个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/从1到n整数中1出现的次数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/从上往下打印二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/从尾到头打印链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/删除链表中重复的结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/包含min函数的栈.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/反转链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/变态跳台阶.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/合并两个排序的链表.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/和为S的两个数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/和为S的连续正数序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/复杂链表的复制.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/字符串的排列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/字符流中第一个不重复的字符.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/孩子们的游戏_圆圈中最后剩下的数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/对称的二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/左旋转字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/平衡二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/序列化二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/扑克牌顺子.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/把二叉树打印成多行.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/把字符串转换成整数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/把数组排成最小的数$MyCompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/把数组排成最小的数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/按之字形顺序打印二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数值的整数次方.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数字在排序数组中出现的次数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数据流中的中位数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数组中出现次数超过一半的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数组中只出现一次的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数组中的逆序对.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/数组中重复的数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/斐波那契数列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/旋转数组的最小数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/替换空格.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/最小的K个数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/机器人的运动范围.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/构建乘积数组.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/栈的压入弹出序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/树的子结构.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/正则表达式匹配.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/求1到n的和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/滑动窗口的最大值$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/滑动窗口的最大值.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/用两个栈实现队列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/矩形覆盖.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/矩阵中的路径.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/第一个只出现一次的字符.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/翻转单词顺序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/表示数值的字符串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/调整数组顺序使奇数位于偶数前面.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/跳台阶.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/连续子数组的最大和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/重建二叉树.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/链表中倒数第k个结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/链表中环的入口结点.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/顺时针打印矩阵$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/offer2/顺时针打印矩阵.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/newcoder/专题16_KMP_扩展KMP_Manacher/KMP匹配子串.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/CodeM6_23/低位值.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/CodeM6_23/开关灯.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/CodeM6_23/神奇盘子.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/Question148_链表排序.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/线程池交替打印$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/线程池交替打印$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/线程池交替打印$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/alibaba/线程池交替打印.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/first0307/好多鱼.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/first0307/序列和.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/first0307/翻转01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/first0307/超级幂级数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/Test$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后$Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/m皇后.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/new3_23/Question2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/乌龟跑步.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/小白/Question1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/小白/Question3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/幸运数字1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/幸运数字2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/幸运数字3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_3/幸运数字4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Dijkstra$Edge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Dijkstra$Graph.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Dijkstra$Vertex.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Dijkstra.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Question1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Question2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder2018_5/Question3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_14/牛牛与妞妞_赢牌概率.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_14/牛牛数星星_某矩阵区域内的星星数量.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_14/牛牛游玩记$Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_14/牛牛游玩记.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_8/求值2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder6_8/走格子.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder_2018_2_25/字符串的问题.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/newcoder_2018_2_25/逆序数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/pingduoduo0801/pingduoduo_4_3/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/pingduoduo0801/pingduoduo_4_3/三角形.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/pingduoduo0801/冒险家.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/pingduoduo0801/无序数组3个数最大乘积.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/second0323/Main4$point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/second0323/Main4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/second0323/字符串分类.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/second0323/平衡数.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/third0519/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/third0519/dp.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/third0519/排序子序列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/third0519/牛牛的数列.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/third0519/组队竞赛.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/填数字$Element.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/填数字.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/托米历险记.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Car.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Question1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Question2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Question3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/拼多多秋招/Question4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/一百分.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/抓兔子游戏.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/数组排序.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/网站开业.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/深信服6_21/重复串查找.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/真题/下厨房.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/真题/合唱团.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/真题/地牢逃脱$Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/真题/地牢逃脱.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/真题/洗牌.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Main1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Test$InputReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Test$OutputWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Test$TaskB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/牛牛找工作$InputReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/牛牛找工作$OutputWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/牛牛找工作.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/笔试/网易3_27/矩阵重叠.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/Main$Num.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/sort/sort_neixing_asc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/拼多多面试4_21/quickSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/SingleTon.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/SingleTonBest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/StaticSingleton$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/StaticSingleton$SingleHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/StaticSingleton.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/enumSingleton.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/将一个字符复制到n个字符.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/面试手撕/网易实习面试4_17/斐波那契数列.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/newcoder/src/offer/题46_把数字翻译成字符串.java" afterPath="$PROJECT_DIR$/newcoder/src/offer/题46_把数字翻译成字符串.java" />
-      <change beforePath="$PROJECT_DIR$/out/production/newcoder/offer/题46_把数字翻译成字符串.class" afterPath="$PROJECT_DIR$/out/production/newcoder/offer/题46_把数字翻译成字符串.class" />
-      <change beforePath="$PROJECT_DIR$/笔试/src/alibaba/线程池交替打印.java" afterPath="$PROJECT_DIR$/笔试/src/alibaba/线程池交替打印.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +676,8 @@
       <file leaf-file-name="丑数.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newcoder/src/again/丑数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="235">
+              <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -271,39 +887,6 @@
             <path>
               <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
               <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="again" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interview_Algorithm_Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interview_Algorithm_Train" type="462c0819:PsiDirectoryNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer2" type="462c0819:PsiDirectoryNode" />
-              <item name="again" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1120,7 +1703,7 @@
       <workItem from="1531212835722" duration="11635000" />
       <workItem from="1531705116965" duration="10112000" />
       <workItem from="1531880975633" duration="19570000" />
-      <workItem from="1532255248789" duration="36248000" />
+      <workItem from="1532255248789" duration="36630000" />
     </task>
     <task id="LOCAL-00001" summary="301删除最小数目的无效括号 DFS BFS">
       <created>1523760459026</created>
@@ -1451,17 +2034,34 @@
       <option name="project" value="LOCAL" />
       <updated>1532434763564</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="2018/7/25">
+      <created>1532526544824</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1532526544824</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="511378000" />
+    <option name="totallyTimeSpent" value="511760000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32502708" sideWeight="0.4696162" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1469,12 +2069,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23618636" sideWeight="0.56396586" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.4360341" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23076923" sideWeight="0.4360341" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1487,7 +2088,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1553,7 +2153,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2018/5/22_offer2_day12" />
     <MESSAGE value="2018/5/23_offer2_day13" />
     <MESSAGE value="2018/5/23_newcoder_5_Dijkstra" />
     <MESSAGE value="2018/5/24_offer2_day15_over" />
@@ -1578,7 +2177,8 @@
     <MESSAGE value="2018/7/20_newcoder" />
     <MESSAGE value="2018/7/20_PDD" />
     <MESSAGE value="2018/7/24_alibaba" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/7/24_alibaba" />
+    <MESSAGE value="2018/7/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/7/25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2476,8 +3076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newcoder/src/again/丑数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="235">
+          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

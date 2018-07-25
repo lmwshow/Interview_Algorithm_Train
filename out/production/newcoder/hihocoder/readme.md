@@ -1,0 +1,1 @@
+http://hihocoder.com/discuss/question/2822
