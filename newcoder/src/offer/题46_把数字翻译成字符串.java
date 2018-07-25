@@ -31,6 +31,7 @@ public class 题46_把数字翻译成字符串 {
     //f(r-2) = f(r-1)+g(r-2,r-1)*f(r);
     //如果r-2，r-1能够翻译成字符，则g(r-2,r-1)=1，否则为0
 
+    //这是递归
     private static void solver(List<Integer> list, int[] res, int index) {
 
         if (index == list.size()) {

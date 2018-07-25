@@ -26,6 +26,7 @@ public class 线程池交替打印 {
         Arrays.sort(a);
         Thread threadA = new Thread() {
 
+
             @Override
             public void run() {
                 try {
