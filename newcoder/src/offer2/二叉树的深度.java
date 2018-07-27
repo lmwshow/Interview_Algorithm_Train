@@ -24,6 +24,7 @@ public class 二叉树的深度 {
         TreeNode cur = root;
         queue.add(cur);
 
+
         while (!queue.isEmpty())
         {
             int curLevelSize = queue.size();
