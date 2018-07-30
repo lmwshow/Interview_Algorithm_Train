@@ -10,36 +10,6 @@ import java.util.*;
 //遍历，如果当前值小于队尾元素，加入对尾，反之，不断将队尾小于该元素的下标移出队列，直到队尾元素大于当前元素，将当前元素加入队列
 public class 题59_滑动窗口的最大值 {
 
-    public static ArrayList<Integer> maxInWindows(int [] num, int size)
-    {
-
-        ArrayList<Integer> res = new ArrayList<>();
-        if (num == null || num.length < size || size ==0)
-            return res;
-
-        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return o2-o1;
-            }
-        });
-        int left = 0;
-        int right = 0;
-        while (right < num.length)
-        {
-            while (right - left < size)
-                pq.offer(num[right++]);
-
-            res.add(pq.peek());
-            pq.remove(num[left]);
-            left ++;
-
-        }
-
-
-        return res;
-    }
-
 
     public static int[] maxSlidingWindow(int[] nums, int k) {
 
@@ -72,6 +42,37 @@ public class 题59_滑动窗口的最大值 {
 
         return ans;
     }
+
+    public static ArrayList<Integer> maxInWindows(int [] num, int size)
+    {
+
+        ArrayList<Integer> res = new ArrayList<>();
+        if (num == null || num.length < size || size ==0)
+            return res;
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2-o1;
+            }
+        });
+        int left = 0;
+        int right = 0;
+        while (right < num.length)
+        {
+            while (right - left < size)
+                pq.offer(num[right++]);
+
+            res.add(pq.peek());
+            pq.remove(num[left]);
+            left ++;
+
+        }
+
+
+        return res;
+    }
+
 
     public static void main(String[] args){
 

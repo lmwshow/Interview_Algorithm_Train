@@ -5,6 +5,7 @@ package alibaba;
  * @Date: 2018/7/24 18:43
  * @Description:
  */
+
 import java.util.Arrays;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Semaphore;
@@ -22,8 +23,7 @@ public class 线程池交替打印 {
 
     public static void main(String[] args) {
 
-        int[] a = new int[]{3,2,1};
-        Arrays.sort(a);
+
         Thread threadA = new Thread() {
 
 
@@ -31,12 +31,14 @@ public class 线程池交替打印 {
             public void run() {
                 try {
                     lock.lock();
-                    while(nextPrintWho != 1) {
-                        conditionA.await();
+                    for (int i = 0; i < n; i++) {
+                        while (nextPrintWho != 1) {
+                            conditionA.await();
+                        }
+                        System.out.print("A");
+                        nextPrintWho = 2;
+                        conditionB.signalAll();
                     }
-                    System.out.print("A");
-                    nextPrintWho = 2;
-                    conditionB.signalAll();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
@@ -50,14 +52,16 @@ public class 线程池交替打印 {
             public void run() {
                 try {
                     lock.lock();
-                    while(nextPrintWho != 2) {
+                    for (int i = 0; i < n; i++) {
+
+                        while (nextPrintWho != 2) {
                         conditionB.await();
                     }
 
                     System.out.print("B");
 
                     nextPrintWho = 3;
-                    conditionC.signalAll();
+                    conditionC.signalAll();}
                 } catch (InterruptedException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
@@ -72,13 +76,16 @@ public class 线程池交替打印 {
             public void run() {
                 try {
                     lock.lock();
-                    while(nextPrintWho != 3) {
-                        conditionC.await();
+                    for (int i = 0; i < n; i++) {
+
+                        while (nextPrintWho != 3) {
+                            conditionC.await();
+                        }
+                        System.out.print("C");
+                        this.sleep(1000);//C线程打印后等待sleep一秒钟，唤醒A线程
+                        nextPrintWho = 1;
+                        conditionA.signalAll();
                     }
-                    System.out.print("C");
-                    this.sleep(1000);//C线程打印后等待sleep一秒钟，唤醒A线程
-                    nextPrintWho = 1;
-                    conditionA.signalAll();
                 } catch (InterruptedException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
@@ -88,11 +95,11 @@ public class 线程池交替打印 {
             }
 
         };
-//        for(int i=0; i<n; i++) {
-        new Thread(threadA).start();
-        new Thread(threadB).start();
-        new Thread(threadC).start();
-//        }
+
+
+        threadA.start();
+        threadB.start();
+        threadC.start();
     }
 
 }
