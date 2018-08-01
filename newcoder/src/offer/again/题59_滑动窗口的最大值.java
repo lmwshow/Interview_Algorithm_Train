@@ -13,20 +13,19 @@ public class 题59_滑动窗口的最大值 {
 
     public static int[] maxSlidingWindow(int[] nums, int k) {
 
-        if(nums == null || nums.length == 0) return new int[0];
+        if (nums == null || nums.length == 0) return new int[0];
 
         int n = nums.length;
 
-        int[] ans = new int[n - k +1];
+        int[] ans = new int[n - k + 1];
 
         Deque<Integer> deque = new LinkedList<>();
 
         int right = 0;
 
 
-        while (right < n)
-        {
-            while (!deque.isEmpty() && (right - deque.peekFirst())>=k)
+        while (right < n) {
+            while (!deque.isEmpty() && (right - deque.peekFirst()) >= k)
                 deque.pollFirst();
 
             while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[right])
@@ -35,7 +34,7 @@ public class 题59_滑动窗口的最大值 {
             deque.offerLast(right);
 
             if (right >= k - 1)
-                ans[right - k +1] = nums[deque.peekFirst()];
+                ans[right - k + 1] = nums[deque.peekFirst()];
             right++;
         }
 
@@ -43,29 +42,27 @@ public class 题59_滑动窗口的最大值 {
         return ans;
     }
 
-    public static ArrayList<Integer> maxInWindows(int [] num, int size)
-    {
+    public static ArrayList<Integer> maxInWindows(int[] num, int size) {
 
         ArrayList<Integer> res = new ArrayList<>();
-        if (num == null || num.length < size || size ==0)
+        if (num == null || num.length < size || size == 0)
             return res;
 
         PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
-                return o2-o1;
+                return o2 - o1;
             }
         });
         int left = 0;
         int right = 0;
-        while (right < num.length)
-        {
+        while (right < num.length) {
             while (right - left < size)
                 pq.offer(num[right++]);
 
             res.add(pq.peek());
             pq.remove(num[left]);
-            left ++;
+            left++;
 
         }
 
@@ -74,15 +71,16 @@ public class 题59_滑动窗口的最大值 {
     }
 
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         ArrayList<Integer> res = new ArrayList<>();
 
-        res = maxInWindows(new int[]{1,2,3,1},0);
-        
-        for (int x : res)
-            System.out.println(x);
-            
+        res = maxInWindows(new int[]{1, 2, 3, 1}, 0);
+
+        System.out.println(res);
+
+
+        System.out.println(Double.doubleToLongBits(3.0));
 
     }
 }
