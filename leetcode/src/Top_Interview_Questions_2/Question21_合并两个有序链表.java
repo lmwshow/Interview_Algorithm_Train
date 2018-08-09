@@ -2,7 +2,7 @@ package Top_Interview_Questions_2;
 
 import Top_Interview_Questions_2.util.ListNode;
 
-public class Question21_Merge_Two_Sorted_Lists {
+public class Question21_合并两个有序链表 {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 

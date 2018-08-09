@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question53_Maximum_Subarray {
+public class Question53_连续子数组的最大和 {
 
 
     //动态规划，dp[i] 表示以i为结尾的子串的最大值
@@ -17,8 +17,9 @@ public class Question53_Maximum_Subarray {
         ans = dp[0];
         for (int i = 1; i < len; i++)
         {
-            dp[i] = Math.max(dp[i-1]+nums[i],nums[i]);
+//            dp[i] = Math.max(dp[i-1]+nums[i],nums[i]);
 
+            dp[i] = dp[i-1]>0?dp[i-1]+nums[i]:nums[i];
             ans = Math.max(ans,dp[i]);
         }
 
@@ -30,6 +31,8 @@ public class Question53_Maximum_Subarray {
     public static void main(String[] args){
 
         int ans = maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4});
+
+        System.out.println(ans);
 
     }
 }

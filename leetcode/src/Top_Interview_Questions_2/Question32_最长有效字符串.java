@@ -3,7 +3,7 @@ package Top_Interview_Questions_2;
 import java.util.Map;
 import java.util.Stack;
 
-public class Question32_Longest_Valid_Parentheses {
+public class Question32_最长有效字符串 {
 
 
 

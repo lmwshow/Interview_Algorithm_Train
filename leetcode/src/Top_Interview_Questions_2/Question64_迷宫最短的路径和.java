@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question64_Minimum_Path_Sum {
+public class Question64_迷宫最短的路径和 {
 
     //求左上到右下的最小路径
     //动态规划  dp[i][j] 表示 到达(i,j)时的最小路径

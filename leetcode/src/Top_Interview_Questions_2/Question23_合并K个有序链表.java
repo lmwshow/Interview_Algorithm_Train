@@ -4,7 +4,7 @@ import Top_Interview_Questions_2.util.ListNode;
 
 
 //利用归并思想
-public class Question23_Merge_k_Sorted_Lists {
+public class Question23_合并K个有序链表 {
 
     public static ListNode mergeKLists(ListNode[] lists) {
 

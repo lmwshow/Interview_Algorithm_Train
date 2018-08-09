@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question48_Rotate_Image {
+public class Question48_旋转矩阵 {
 
     //更方便的解法 ， 可以先转置，然后对每一行逆序， 就可以得到旋转矩阵
 

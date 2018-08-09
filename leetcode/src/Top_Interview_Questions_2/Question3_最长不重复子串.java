@@ -5,7 +5,7 @@ import com.sun.xml.internal.ws.addressing.WsaTubeHelperImpl;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Question3_Longest_Substring_Without_Repeating_Characters {
+public class Question3_最长不重复子串 {
 
     public int lengthOfLongestSubstring(String s) {
 

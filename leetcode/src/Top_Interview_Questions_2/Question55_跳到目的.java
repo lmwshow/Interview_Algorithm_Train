@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question55_Jump_Game {
+public class Question55_跳到目的 {
 
 
 
@@ -49,6 +49,30 @@ public class Question55_Jump_Game {
         }
 
         return true;
+
+
+    }
+
+    public static boolean mwcanJump(int[] nums)
+    {
+        if (nums == null || nums.length < 2)
+            return true;
+
+        //遍历一次
+        int index = 0;
+        int step = nums[0];
+
+        while (step > 0)
+        {
+            if (step + index >= nums.length - 1)
+                return true;
+            step --;
+            index ++;
+            if (nums[index] > step)
+                step = nums[index];
+        }
+
+        return false;
 
 
     }

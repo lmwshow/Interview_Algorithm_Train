@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question62_Unique_Paths {
+public class Question62_迷宫路径数 {
 
     static int ans;
     static int[][] dp;

@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question10_Regular_Expression_Matching {
+public class Question10_正则表达式匹配 {
 
     public static boolean isMatch(String s, String p) {
 

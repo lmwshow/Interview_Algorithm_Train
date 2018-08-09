@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Question56_Merge_Intervals {
+public class Question56_合并区间 {
 
     public static List<Interval> merge(List<Interval> intervals) {
 

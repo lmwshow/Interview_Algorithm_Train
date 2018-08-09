@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Question39_Combination_Sum {
+public class Question39_组合和 {
 
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
 
@@ -50,13 +50,7 @@ public class Question39_Combination_Sum {
 
         List<List<Integer>> anslist = combinationSum(new int[]{2,3,6,7},7);
 
-        for (List<Integer> list:anslist)
-        {
-            for (int x : list)
-                System.out.println(x);
-
-
-        }
+        System.out.println(anslist);
 
     }
 }

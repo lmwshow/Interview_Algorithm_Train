@@ -2,7 +2,7 @@ package Top_Interview_Questions_2;
 
 import Top_Interview_Questions_2.util.ListNode;
 
-public class Question19_Remove_Nth_Node_From_End_of_List {
+public class Question19_移除链表倒数第N个节点 {
 
     public static ListNode removeNthFromEnd(ListNode head, int n) {
 

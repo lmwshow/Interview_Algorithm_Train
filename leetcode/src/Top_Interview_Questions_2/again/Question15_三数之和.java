@@ -76,11 +76,7 @@ public class Question15_三数之和 {
             List<Integer> tmp = res.get(i);
             System.out.println(tmp.size());
 
-            for (int x :
-                    tmp) {
-                System.out.println(x);
-
-            }
+            System.out.println(tmp);
         }
 
     }

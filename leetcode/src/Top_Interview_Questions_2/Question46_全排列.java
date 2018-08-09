@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Question46_Permutations {
+public class Question46_全排列 {
     
     //全排列 三种 递归 递归去重  非递归
     

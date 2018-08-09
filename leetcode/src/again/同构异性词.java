@@ -1,9 +1,12 @@
-package Top_Interview_Questions_2;
+package again;
 
 import java.util.*;
 
-public class Question49_Group_Anagrams {
+public class 同构异性词 {
 
+    /*
+      之所以可以这样直接用map，是因为String重写了hashcode方法，它的hash值是根据内容来的。而不是判断两个对象的地址
+     */
     public static List<List<String>> groupAnagrams(String[] strs) {
 
         List<List<String>> ans = new ArrayList<>();
@@ -21,6 +24,7 @@ public class Question49_Group_Anagrams {
             chars = s.toCharArray();
             Arrays.sort(chars);
             cur = new String(chars);
+            //之所以可以这样直接用map，是因为String重写了hashcode方法，它的hash值是根据内容来的。而不是判断两个对象的地址
             if (dic.containsKey(cur))
                 dic.get(cur).add(s);
             else {
@@ -46,6 +50,11 @@ public class Question49_Group_Anagrams {
 
     public static void main(String[] args){
 
+        String str = "Hello";
+        String str1 = new String("Hello");
+        char[] chars = new char[]{'H','e','l','l','o'};
+        String str2 = chars.toString();
+        System.out.println(str == str2);
 
         List<List<String>> ans = groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});
         

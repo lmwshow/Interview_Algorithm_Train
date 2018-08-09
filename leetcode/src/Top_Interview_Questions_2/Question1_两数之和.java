@@ -3,7 +3,7 @@ package Top_Interview_Questions_2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Question1_two_sum {
+public class Question1_两数之和 {
 
     public static int[] twoSum(int[] nums, int target) {
 

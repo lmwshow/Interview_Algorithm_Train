@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question34Search_for_a_Range {
+public class Question34_二分查范围 {
 
 
     public static int[] searchRange(int[] nums, int target) {

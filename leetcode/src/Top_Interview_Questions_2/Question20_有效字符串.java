@@ -2,7 +2,7 @@ package Top_Interview_Questions_2;
 
 import java.util.Stack;
 
-public class Question20_Valid_Parentheses {
+public class Question20_有效字符串 {
 
     public static boolean isValid(String s) {
 
