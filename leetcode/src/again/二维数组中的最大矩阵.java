@@ -1,9 +1,13 @@
-package Top_Interview_Questions_2.again;
+package again;
 
 import java.util.Stack;
 
-public class Question85_最大矩形 {
-
+/**
+ * @Auther: minGW
+ * @Date: 2018/8/9 21:37
+ * @Description:
+ */
+public class 二维数组中的最大矩阵 {
 
     // 暴力模拟 O（n^3），可以活用直方图的最大矩阵面积，优化到O(n^2)
     // 首先需要思考如何将矩阵转为 直方图， 因为直方图是一维数组描述的， 所以这里可以用二维数组表示n个直方图
@@ -49,21 +53,11 @@ public class Question85_最大矩形 {
 
             else
             {
-                curindex = stack.pop();         //这是是个ifelse 虽然每次第一次进来的时候 curindex = i-1 但是由于不是一直循环计算到结束，所以curindex会变化，后面就不再是i-1了
-                max = Math.max(max,heigth[curindex]*(stack.isEmpty()?i:(i - stack.peek() -1)));
+                curindex = stack.pop();
+                max = Math.max(max,heigth[curindex]*(stack.isEmpty()?i:(i - stack.peek() - 1)));
             }
         }
 
         return max;
     }
-
-
-    public static void main(String[] args) {
-
-
-        System.out.println(maximalRectangle(new char[][]{{'1','0','1','0','0'},{'1','0','1','1','1'},{'1','1','1','1','1'},{'1','0','0','1','0'}}));
-        System.out.println(maximalRectangle(new char[][]{{'0', '0', '1', '0'}, {'1', '1', '1', '1'}, {'1', '1', '1', '1'}, {'1', '1', '1', '0'}, {'1', '1', '0', '0'}, {'1', '1', '1', '1'}, {'1', '1', '1', '0'}}));
-
-    }
-
 }

@@ -2,7 +2,7 @@ package Top_Interview_Questions_2;
 
 import java.util.*;
 
-public class Question78_Subsets {
+public class Question78_子集 {
 
     public static List<List<Integer>> subsets(int[] nums) {
 

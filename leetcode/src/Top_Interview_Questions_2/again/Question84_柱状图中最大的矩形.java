@@ -24,7 +24,7 @@ public class Question84_柱状图中最大的矩形 {
         Stack<Integer> stack = new Stack<>();
         int cur = 0,i=0;
         while (i < h.length) {
-            if (stack.isEmpty() || h[stack.peek()] <= h[i])         //不是和h[i-1]比 而是和stack.peek（）比较
+            if (stack.isEmpty() || h[stack.peek()] < h[i])         //不是和h[i-1]比 而是和stack.peek（）比较
                 stack.push(i++);
             else {
                 cur = stack.pop();

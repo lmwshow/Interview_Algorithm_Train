@@ -3,7 +3,7 @@ package Top_Interview_Questions_2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Question76_Minimum_Window_Substring {
+public class Question76_滑动窗口 {
 
     public static String minWindow(String s, String t) {
 

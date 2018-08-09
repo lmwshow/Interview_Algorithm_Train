@@ -6,7 +6,7 @@ import java.util.Stack;
  * 直方图的最大矩阵算法
  */
 
-public class Question84_Largest_Rectangle_in_Histogram {
+public class Question84_直方图中的最大矩阵 {
 
 
     static int ans;
@@ -28,7 +28,7 @@ public class Question84_Largest_Rectangle_in_Histogram {
         Stack<Integer> stack = new Stack<>();
         int cur = 0,i=0;
         while (i < h.length) {
-            if (stack.isEmpty() || h[stack.peek()] <= h[i])
+            if (stack.isEmpty() || h[stack.peek()] < h[i])
                 stack.push(i++);
             else {
                 cur = stack.pop();
@@ -42,7 +42,7 @@ public class Question84_Largest_Rectangle_in_Histogram {
     public static void main(String[] args) {
 
         System.out.println(
-                largestRectangleArea(new int[]{2, 1, 5, 6, 2, 3, 1, 1, 1, 1, 1, 1}));
+                largestRectangleArea(new int[]{0}));
 
     }
 }
