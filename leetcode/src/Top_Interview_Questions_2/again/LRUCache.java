@@ -21,7 +21,7 @@ class LRUCache {
 
     public static int get(int key) {
 
-        if (map.get(key)==null)
+        if (!map.containsKey(key))
             return -1;
         else {
             linkNodeList.swapToHead(map.get(key));

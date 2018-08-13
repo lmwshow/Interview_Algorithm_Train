@@ -44,7 +44,7 @@ public class Question139_单词拆分 {
 
     }
 
-    //利用DFS+缓存记忆，记录所有在当前index时，后面无法组成单次的下标位置，将DFS降至O(n^2)
+    //利用DFS+缓存记忆，记录所有在当前index时，后面无法组成单词的下标位置，将DFS降至O(n^2)
     public boolean MemwordBreak(String s, List<String> wordDict) {
 
 

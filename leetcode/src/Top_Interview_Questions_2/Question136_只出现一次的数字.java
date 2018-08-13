@@ -5,6 +5,7 @@ import java.util.Map;
 public class Question136_只出现一次的数字 {
 
     static int ans;
+
     //异或运算
     public int singleNumber(int[] nums) {
 
@@ -13,9 +14,15 @@ public class Question136_只出现一次的数字 {
         if (nums == null || nums.length == 0)
             return ans;
 
-        for (int x: nums)
+        for (int x : nums)
             ans ^= x;
 
         return ans;
+    }
+
+    public static void main(String[] args) {
+
+        String str = "abc";
+        System.out.println(str.substring(str.length()).length());
     }
 }

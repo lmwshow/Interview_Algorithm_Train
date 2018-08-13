@@ -1,6 +1,6 @@
 package Top_Interview_Questions_2;
 
-public class Question85_Maximal_Rectangle {
+public class Question85_二维数组中的最大矩阵 {
 
 
     // 暴力模拟 O（n^3），可以活用直方图的最大矩阵面积，优化到O(n^2)
