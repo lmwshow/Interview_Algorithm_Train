@@ -13,6 +13,7 @@ import java.util.PriorityQueue;
  * Dijkstra 邻接表 + 优先队列
  *
  * 这是是无向图,Dijkstra求单源最短路径
+ * 正因为是单源，所以顶点内保存的最短路都是和这个源的距离
  */
 public class 最短路径一 {
 

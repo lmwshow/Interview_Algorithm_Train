@@ -125,7 +125,7 @@ public class 最短路径三_SPFA算法 {
                 {
                     dist[v] =  dist[u] + (int)edges.get(i).weight;          //松弛
 
-                    if (!visit[v])                      //顶点y不在队内
+                    if (!visit[v])                      //顶点v不在队内
                     {
                         visit[v] = true;                //标记
                         counter[v]++;                   //统计次数
