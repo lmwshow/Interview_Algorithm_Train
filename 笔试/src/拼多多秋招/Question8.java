@@ -10,12 +10,11 @@ import java.util.*;
  * @Date: 2018/8/30 19:22
  * @Description:
  */
-public class Main {
-
+public class Question8 {
+    
     static int n;
     static int l;
     static Map<String,Integer> map;
-    static boolean flag = false;
     public static void main(String[] args) throws IOException {
 
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
@@ -33,9 +32,9 @@ public class Main {
 
 
 
+
         List<String> list = new ArrayList<>();
         StringBuilder cur = new StringBuilder();
-        flag = false;
         dfs(words,list,0,cur);
 
         if (list.size() == 0)
@@ -44,34 +43,24 @@ public class Main {
             Collections.sort(list);
             System.out.println(list.get(0));
         }
-
+        
     }
 
     private static void dfs(String[] words, List<String> list, int index,StringBuilder cur) {
-
+        
         if (index == l)
         {
-            if (!map.containsKey(cur.toString())) {
+            if (!map.containsKey(cur.toString()) && !list.contains(cur.toString()))
                 list.add(cur.toString());
-                flag = true;
-            }
             return;
         }
-
-        List<Character> tmp = new ArrayList<>();
-
+        
         for (int j = 0 ; j < n ; j++)
-            tmp.add(words[j].charAt(index));
-
-        Collections.sort(tmp);
-
-        for (int i = 0 ; i < tmp.size() ; i++)
         {
-            if (!flag) {
-                cur.append(tmp.get(i));
-                dfs(words, list, index + 1, cur);
-                cur.deleteCharAt(cur.length() - 1);
-            }
+            cur.append(words[j].charAt(index));
+            dfs(words,list,index + 1,cur);
+            cur.deleteCharAt(cur.length() - 1);
         }
+
     }
 }
