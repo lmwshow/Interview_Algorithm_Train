@@ -1,6 +1,7 @@
 package 头条;
 
-import Top_Interview_Questions_2.util.TreeNode;
+
+import 头条.util.TreeNode;
 
 /**
  * @Auther: minGW

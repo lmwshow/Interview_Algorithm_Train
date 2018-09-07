@@ -1,6 +1,7 @@
 package 头条;
 
-import offer.util.TreeNode;
+
+import 头条.util.TreeNode;
 
 /**
  * @Auther: minGW
